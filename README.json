@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "SocialRouter",
-          "description": "Unified API to fetch social media data across LinkedIn, Instagram, X, Reddit, TikTok, YouTube, and more, with automatic provider failover.  🟢 3w 1",
+          "description": "Unified API to fetch social media data across LinkedIn, Instagram, X, Reddit, TikTok, YouTube, and more, with automatic provider failover.  🟢 4w 1",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "MarkItDown",
-          "description": "✅ Lightweight STDIO and SSE MCP server for calling MarkItDown.  🟢 2d 192.1k",
+          "description": "✅ Lightweight STDIO and SSE MCP server for calling MarkItDown.  🟢 4d 193.4k",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -37,10 +37,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-28T15:33:14Z",
-            "open_issues": 775,
+            "open_issues": 782,
             "owner": "microsoft",
             "repo": "markitdown",
-            "stars": 193233,
+            "stars": 193403,
             "topics": [
               "autogen",
               "autogen-extension",
@@ -56,7 +56,7 @@
         {
           "node_type": "item",
           "title": "Playwright",
-          "description": "✅ Provides browser automation capabilities using Playwright.  🟢 3d 38.6k",
+          "description": "✅ Provides browser automation capabilities using Playwright.  🟢 1d 38.9k",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -66,10 +66,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-31T15:20:06Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "microsoft",
             "repo": "playwright-mcp",
-            "stars": 38907,
+            "stars": 38950,
             "topics": [
               "mcp",
               "playwright"
@@ -80,7 +80,7 @@
         {
           "node_type": "item",
           "title": "Official Github",
-          "description": "✅ Seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.  🟢 2d 33.9k",
+          "description": "✅ Seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.  🟢 2d 34.1k",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,10 +90,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-30T20:23:35Z",
-            "open_issues": 397,
+            "open_issues": 398,
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 34123,
+            "stars": 34141,
             "topics": [
               "github",
               "mcp",
@@ -105,7 +105,7 @@
         {
           "node_type": "item",
           "title": "Blender",
-          "description": "Interact with and control Blender using prompt assisted 3D modeling, scene creation, and manipulation.  🟢 1d 32.3k",
+          "description": "Interact with and control Blender using prompt assisted 3D modeling, scene creation, and manipulation.  🟢 3d 33k",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -115,10 +115,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-29T09:13:34Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "ahujasid",
             "repo": "mcp-for-blender",
-            "stars": 32913,
+            "stars": 32994,
             "topics": [
               "3d-modeling",
               "ai",
@@ -138,7 +138,7 @@
         {
           "node_type": "item",
           "title": "AWS",
-          "description": "✅ A suite of specialized MCP servers that bring AWS best practices directly to your development workflow.  🟢 2d 9.8k",
+          "description": "✅ A suite of specialized MCP servers that bring AWS best practices directly to your development workflow.  🟢 1d 9.9k",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -147,11 +147,11 @@
             "id": 952238700,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T20:12:16Z",
-            "open_issues": 251,
+            "last_commit": "2026-10-31T22:26:34Z",
+            "open_issues": 253,
             "owner": "awslabs",
             "repo": "mcp",
-            "stars": 9853,
+            "stars": 9860,
             "topics": [
               "aws",
               "mcp",
@@ -169,7 +169,7 @@
         {
           "node_type": "item",
           "title": "XcodeBuildMCP",
-          "description": "Provides Xcode-related tools for integration with AI assistants and other MCP clients.  🟢 3d 6.5k",
+          "description": "Provides Xcode-related tools for integration with AI assistants and other MCP clients.  🟢 0d 6.5k",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -178,11 +178,11 @@
             "id": 945551361,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T12:05:32Z",
-            "open_issues": 32,
+            "last_commit": "2026-11-01T11:09:32Z",
+            "open_issues": 33,
             "owner": "getsentry",
             "repo": "MobileBuildMCP",
-            "stars": 6529,
+            "stars": 6532,
             "topics": [
               "mcp",
               "mcp-server",
@@ -198,7 +198,7 @@
         {
           "node_type": "item",
           "title": "WhatsApp",
-          "description": "Search your personal Whatsapp messages, search your contacts and send messages to either individuals or groups.  🔴 1y 6.7k",
+          "description": "Search your personal Whatsapp messages, search your contacts and send messages to either individuals or groups.  🔴 1y 6.8k",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -211,7 +211,7 @@
             "open_issues": 266,
             "owner": "lharries",
             "repo": "whatsapp-mcp",
-            "stars": 6781,
+            "stars": 6788,
             "topics": [
               "ai",
               "mcp",
@@ -224,7 +224,7 @@
         {
           "node_type": "item",
           "title": "Obsidian",
-          "description": "Interact with Obsidian.  🟢 7w 4.5k",
+          "description": "Interact with Obsidian.  🟢 2mo 4.5k",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -253,7 +253,7 @@
             {
               "node_type": "item",
               "title": "FileSystem",
-              "description": "✅ Secure file operations with configurable access controls.  🟢 0d 91.5k",
+              "description": "✅ Secure file operations with configurable access controls.  🟢 3d 91.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -263,10 +263,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T05:27:40Z",
-                "open_issues": 34,
+                "open_issues": 38,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91718,
+                "stars": 91736,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -274,7 +274,7 @@
             {
               "node_type": "item",
               "title": "modelcontextprotocol/servers",
-              "description": "✅ Repository management, file operations, and GitHub API integration.  🟢 0d 91.5k",
+              "description": "✅ Repository management, file operations, and GitHub API integration.  🟢 3d 91.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -284,10 +284,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T05:27:40Z",
-                "open_issues": 34,
+                "open_issues": 38,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91718,
+                "stars": 91736,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -295,7 +295,7 @@
             {
               "node_type": "item",
               "title": "Gitlab",
-              "description": "✅ GitLab API, enabling project management.  🟢 0d 91.5k",
+              "description": "✅ GitLab API, enabling project management.  🟢 3d 91.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -305,10 +305,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T05:27:40Z",
-                "open_issues": 34,
+                "open_issues": 38,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91718,
+                "stars": 91736,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -316,7 +316,7 @@
             {
               "node_type": "item",
               "title": "Git",
-              "description": "✅ Tools to read, search, and manipulate Git repositories.  🟢 0d 91.5k",
+              "description": "✅ Tools to read, search, and manipulate Git repositories.  🟢 3d 91.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -326,10 +326,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T05:27:40Z",
-                "open_issues": 34,
+                "open_issues": 38,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91718,
+                "stars": 91736,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -337,7 +337,7 @@
             {
               "node_type": "item",
               "title": "Official Github",
-              "description": "✅ Seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.  🟢 2d 33.9k",
+              "description": "✅ Seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.  🟢 2d 34.1k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -347,10 +347,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-30T20:23:35Z",
-                "open_issues": 397,
+                "open_issues": 398,
                 "owner": "github",
                 "repo": "github-mcp-server",
-                "stars": 34123,
+                "stars": 34141,
                 "topics": [
                   "github",
                   "mcp",
@@ -362,7 +362,7 @@
             {
               "node_type": "item",
               "title": "XcodeBuildMCP",
-              "description": "Provides Xcode-related tools for integration with AI assistants and other MCP clients.  🟢 3d 6.5k",
+              "description": "Provides Xcode-related tools for integration with AI assistants and other MCP clients.  🟢 0d 6.5k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -371,11 +371,11 @@
                 "id": 945551361,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T12:05:32Z",
-                "open_issues": 32,
+                "last_commit": "2026-11-01T11:09:32Z",
+                "open_issues": 33,
                 "owner": "getsentry",
                 "repo": "MobileBuildMCP",
-                "stars": 6529,
+                "stars": 6532,
                 "topics": [
                   "mcp",
                   "mcp-server",
@@ -391,7 +391,7 @@
             {
               "node_type": "item",
               "title": "Filesystem",
-              "description": "File operations with configurable access controls.  🟡 11mo 692",
+              "description": "File operations with configurable access controls.  🟡 11mo 693",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -412,7 +412,7 @@
             {
               "node_type": "item",
               "title": "Muvon/octocode",
-              "description": "Semantic code indexer with GraphRAG knowledge graph and MCP server. Tree-sitter AST parsing, ast-grep structural search, code signatures view. 13+ languages. Local-first, Apache 2.0.  🟢 0d 515",
+              "description": "Semantic code indexer with GraphRAG knowledge graph and MCP server. Tree-sitter AST parsing, ast-grep structural search, code signatures view. 13+ languages. Local-first, Apache 2.0.  🟢 4d 518",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -454,7 +454,7 @@
             {
               "node_type": "item",
               "title": "Node.js",
-              "description": "Gives Cursor or Claude Code access to Node.js at runtime to help you debug.  🗄️ archived 302",
+              "description": "Gives Cursor or Claude Code access to Node.js at runtime to help you debug.  🗄️ archived 301",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -510,8 +510,42 @@
             },
             {
               "node_type": "item",
+              "title": "mcp-probe-kit",
+              "description": "Spec-driven dev workflow server for coding agents: orchestrated start_feature/start_bugfix, resumable plans, and a converge gate requiring spec/test/review evidence.  🟢 0d 41",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Spec-driven dev workflow MCP for Cursor & AI agents — start_feature/bugfix orchestration, auto Skill+AGENTS bootstrap, memory, GitNexus. npx -y mcp-probe-kit@latest",
+                "homepage": "https://mcp-probe-kit.bytezonex.com/",
+                "id": 1082969952,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-01T13:14:40Z",
+                "open_issues": 1,
+                "owner": "mybolide",
+                "repo": "mcp-probe-kit",
+                "stars": 41,
+                "topics": [
+                  "ai-agent",
+                  "ai-tools",
+                  "claude",
+                  "cursor",
+                  "development-tools",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "skills",
+                  "spec-driven-development",
+                  "typescript",
+                  "workflow"
+                ]
+              },
+              "first_seen": "2026-10-30T22:28:47.633Z"
+            },
+            {
+              "node_type": "item",
               "title": "Apple Docs 2.0 MCP",
-              "description": "Searches and reads Apple's developer documentation, Human Interface Guidelines and 1,700 WWDC sessions with code, with an offline index of 336,629 pages.  🟢 7d 26",
+              "description": "Searches and reads Apple's developer documentation, Human Interface Guidelines and 1,700 WWDC sessions with code, with an offline index of 336,629 pages.  🟢 2w 26",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -644,8 +678,8 @@
                 "id": 975765002,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T21:38:38Z",
-                "open_issues": 47,
+                "last_commit": "2026-11-01T21:05:09Z",
+                "open_issues": 51,
                 "owner": "allxsmith",
                 "repo": "bestax",
                 "stars": 13,
@@ -671,7 +705,7 @@
             {
               "node_type": "item",
               "title": "repomap",
-              "description": "Local code graph for agents: hybrid search, symbol context with callers and callees, call paths, and change impact including git diff, plus a graph UI.  🟢 3d 7",
+              "description": "Local code graph for agents: hybrid search, symbol context with callers and callees, call paths, and change impact including git diff, plus a graph UI.  🟢 2d 8",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -734,7 +768,7 @@
             {
               "node_type": "item",
               "title": "wopee-mcp",
-              "description": "Autonomous AI testing for web apps — generate test cases and user stories, dispatch test, analysis and AI-agent runs, and fetch artifacts and project status via Wopee.io.  🟢 11d 4",
+              "description": "Autonomous AI testing for web apps — generate test cases and user stories, dispatch test, analysis and AI-agent runs, and fetch artifacts and project status via Wopee.io.  🟢 3d 4",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -771,7 +805,7 @@
             {
               "node_type": "item",
               "title": "ERIUS PHONE",
-              "description": "Drives an ERIUS PHONE hosted Android phone or tablet: reads the screen as an accessibility tree or screenshot, taps, types, swipes, launches apps, installs APKs and pulls crash logs; requires an ERIUS PHONE API key.  🟢 12d 3",
+              "description": "Drives an ERIUS PHONE hosted Android phone or tablet: reads the screen as an accessibility tree or screenshot, taps, types, swipes, launches apps, installs APKs and pulls crash logs; requires an ERIUS PHONE API key.  🟢 2w 3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -804,7 +838,7 @@
             {
               "node_type": "item",
               "title": "sf-intelligence",
-              "description": "Read-only, offline knowledge base of a Salesforce org's metadata that tells your AI what breaks before you change a field, Flow, Apex class or permission, with cited answers.  🟢 6d 2",
+              "description": "Read-only, offline knowledge base of a Salesforce org's metadata that tells your AI what breaks before you change a field, Flow, Apex class or permission, with cited answers.  🟢 13d 3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -845,8 +879,50 @@
             },
             {
               "node_type": "item",
+              "title": "ReMCP",
+              "description": "OAuth-backed remote MCP for explicitly paired computers, with file, terminal, browser and native desktop tools that can change device state.  🟢 0d 3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Remote MCP access to computers you explicitly pair — files, terminal, desktop UI, browser automation, diagnostics, and documents.",
+                "homepage": "https://remcp.site",
+                "id": 1373231892,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-11-01T22:10:56Z",
+                "open_issues": 0,
+                "owner": "getremcp",
+                "repo": "remcp",
+                "stars": 3,
+                "topics": [
+                  "ai-agents",
+                  "automation",
+                  "browser-automation",
+                  "chatgpt",
+                  "claude",
+                  "cli",
+                  "codex",
+                  "computer-use",
+                  "cursor",
+                  "desktop-automation",
+                  "developer-tools",
+                  "gemini-cli-extension",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "nodejs",
+                  "openai",
+                  "remote-access",
+                  "remote-desktop",
+                  "self-hosted"
+                ]
+              },
+              "first_seen": "2026-10-25T20:58:16.185Z"
+            },
+            {
+              "node_type": "item",
               "title": "lockdocs",
-              "description": "Library docs and exact API signatures for the versions pinned in your lockfile (npm, PyPI, crates.io, Go), read locally and offline, with each section cited to package, version, file and line.  🟢 0d 1",
+              "description": "Library docs and exact API signatures for the versions pinned in your lockfile (npm, PyPI, crates.io, Go), read locally and offline, with each section cited to package, version, file and line.  🟢 1d 1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -887,50 +963,8 @@
             },
             {
               "node_type": "item",
-              "title": "ReMCP",
-              "description": "OAuth-backed remote MCP for explicitly paired computers, with file, terminal, browser and native desktop tools that can change device state.  🟢 0d 1",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Remote MCP access to computers you explicitly pair — files, terminal, desktop UI, browser automation, diagnostics, and documents.",
-                "homepage": "https://remcp.site",
-                "id": 1373231892,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-10-28T19:25:55Z",
-                "open_issues": 0,
-                "owner": "getremcp",
-                "repo": "remcp",
-                "stars": 3,
-                "topics": [
-                  "ai-agents",
-                  "automation",
-                  "browser-automation",
-                  "chatgpt",
-                  "claude",
-                  "cli",
-                  "codex",
-                  "computer-use",
-                  "cursor",
-                  "desktop-automation",
-                  "developer-tools",
-                  "gemini-cli-extension",
-                  "mcp",
-                  "mcp-server",
-                  "model-context-protocol",
-                  "nodejs",
-                  "openai",
-                  "remote-access",
-                  "remote-desktop",
-                  "self-hosted"
-                ]
-              },
-              "first_seen": "2026-10-25T20:58:16.185Z"
-            },
-            {
-              "node_type": "item",
               "title": "GhidraLens",
-              "description": "Interactive Ghidra views inside the client: decompile a binary, rename symbols in the live program, and navigate the call graph.  🟢 8w 0",
+              "description": "Interactive Ghidra views inside the client: decompile a binary, rename symbols in the live program, and navigate the call graph.  🟢 2mo 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -958,40 +992,6 @@
                 ]
               },
               "first_seen": "2026-08-31T22:55:47.873Z"
-            },
-            {
-              "node_type": "item",
-              "title": "mcp-probe-kit",
-              "description": "Spec-driven dev workflow server for coding agents: orchestrated start_feature/start_bugfix, resumable plans, and a converge gate requiring spec/test/review evidence.  🟢 0d 39",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Spec-driven dev workflow MCP for Cursor & AI agents — start_feature/bugfix orchestration, auto Skill+AGENTS bootstrap, memory, GitNexus. npx -y mcp-probe-kit@latest",
-                "homepage": "https://mcp-probe-kit.bytezonex.com/",
-                "id": 1082969952,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-31T16:25:02Z",
-                "open_issues": 0,
-                "owner": "mybolide",
-                "repo": "mcp-probe-kit",
-                "stars": 41,
-                "topics": [
-                  "ai-agent",
-                  "ai-tools",
-                  "claude",
-                  "cursor",
-                  "development-tools",
-                  "mcp",
-                  "mcp-server",
-                  "model-context-protocol",
-                  "skills",
-                  "spec-driven-development",
-                  "typescript",
-                  "workflow"
-                ]
-              },
-              "first_seen": "2026-10-30T22:28:47.633Z"
             }
           ],
           "description": null,
@@ -1003,7 +1003,7 @@
             {
               "node_type": "item",
               "title": "PostgreSQL",
-              "description": "✅ Read-only database access with schema inspection.  🟢 0d 91.5k",
+              "description": "✅ Read-only database access with schema inspection.  🟢 3d 91.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1013,10 +1013,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T05:27:40Z",
-                "open_issues": 34,
+                "open_issues": 38,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91718,
+                "stars": 91736,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -1024,7 +1024,7 @@
             {
               "node_type": "item",
               "title": "Sqlite",
-              "description": "✅ Database interaction and business intelligence capabilities.  🟢 0d 91.5k",
+              "description": "✅ Database interaction and business intelligence capabilities.  🟢 3d 91.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1034,10 +1034,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T05:27:40Z",
-                "open_issues": 34,
+                "open_issues": 38,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91718,
+                "stars": 91736,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -1045,7 +1045,7 @@
             {
               "node_type": "item",
               "title": "Scento Perfume API",
-              "description": "Remote, read-only perfume knowledge server for AI assistants: notes, families, raw materials and similar scents for 1,400+ perfumes, no API key.  🟢 4d 0",
+              "description": "Remote, read-only perfume knowledge server for AI assistants: notes, families, raw materials and similar scents for 1,400+ perfumes, no API key.  🟢 5d 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1094,7 +1094,7 @@
             {
               "node_type": "item",
               "title": "AWS Knowledge Base Retrieval",
-              "description": "✅ Retrieve information from the AWS Knowledge Base using the Bedrock Agent Runtime.  🟢 0d 91.5k",
+              "description": "✅ Retrieve information from the AWS Knowledge Base using the Bedrock Agent Runtime.  🟢 3d 91.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1104,10 +1104,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T05:27:40Z",
-                "open_issues": 34,
+                "open_issues": 38,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91718,
+                "stars": 91736,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -1115,7 +1115,7 @@
             {
               "node_type": "item",
               "title": "Sentry",
-              "description": "✅ Retrieving and analyzing issues from Sentry.io.  🟢 0d 91.5k",
+              "description": "✅ Retrieving and analyzing issues from Sentry.io.  🟢 3d 91.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1125,10 +1125,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T05:27:40Z",
-                "open_issues": 34,
+                "open_issues": 38,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91718,
+                "stars": 91736,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -1136,7 +1136,7 @@
             {
               "node_type": "item",
               "title": "AWS",
-              "description": "✅ A suite of specialized MCP servers that bring AWS best practices directly to your development workflow.  🟢 2d 9.8k",
+              "description": "✅ A suite of specialized MCP servers that bring AWS best practices directly to your development workflow.  🟢 1d 9.9k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1145,11 +1145,11 @@
                 "id": 952238700,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T20:12:16Z",
-                "open_issues": 251,
+                "last_commit": "2026-10-31T22:26:34Z",
+                "open_issues": 253,
                 "owner": "awslabs",
                 "repo": "mcp",
-                "stars": 9853,
+                "stars": 9860,
                 "topics": [
                   "aws",
                   "mcp",
@@ -1167,7 +1167,7 @@
             {
               "node_type": "item",
               "title": "Cloudflare",
-              "description": "✅ Deploy, configure & interrogate your resources on the Cloudflare developer platform (e.g. Workers/KV/R2/D1).  🟢 3d 4.4k",
+              "description": "✅ Deploy, configure & interrogate your resources on the Cloudflare developer platform (e.g. Workers/KV/R2/D1).  🟢 10d 4.4k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1180,7 +1180,7 @@
                 "open_issues": 62,
                 "owner": "cloudflare",
                 "repo": "mcp-server-cloudflare",
-                "stars": 4436,
+                "stars": 4439,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -1197,11 +1197,11 @@
                 "id": 443987542,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-31T17:06:52Z",
-                "open_issues": 114,
+                "last_commit": "2026-11-01T03:22:03Z",
+                "open_issues": 115,
                 "owner": "stackql",
                 "repo": "stackql",
-                "stars": 1074,
+                "stars": 1075,
                 "topics": [
                   "ai-agents",
                   "asset-management",
@@ -1226,7 +1226,7 @@
             {
               "node_type": "item",
               "title": "ZenML",
-              "description": "Chat with your MLOps and LLMOps pipelines using the official ZenML MCP server.  🟢 3d 49",
+              "description": "Chat with your MLOps and LLMOps pipelines using the official ZenML MCP server.  🟢 1d 49",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1252,7 +1252,7 @@
             {
               "node_type": "item",
               "title": "Raygun",
-              "description": "Interact with your crash reporting and real using monitoring data on your Raygun account.  🟢 7w 30",
+              "description": "Interact with your crash reporting and real using monitoring data on your Raygun account.  🟢 2mo 31",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1278,7 +1278,7 @@
             {
               "node_type": "item",
               "title": "Spinnaker",
-              "description": "Exposes a Spinnaker instance through the Gate API as 37 tools for applications, pipelines, executions, deployment strategies and infrastructure, with an optional read-only toolset.  🟢 4d 5",
+              "description": "Exposes a Spinnaker instance through the Gate API as 37 tools for applications, pipelines, executions, deployment strategies and infrastructure, with an optional read-only toolset.  🟢 3d 5",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1362,7 +1362,7 @@
             {
               "node_type": "item",
               "title": "gpunz-mcp",
-              "description": "MCP server for the gpu.nz GPU cloud: search GPUs with live prices, estimate VRAM, and launch, monitor and stop GPU servers.  🟢 4d 1",
+              "description": "MCP server for the gpu.nz GPU cloud: search GPUs with live prices, estimate VRAM, and launch, monitor and stop GPU servers.  🟢 11d 1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1398,7 +1398,7 @@
             {
               "node_type": "item",
               "title": "CloudGPU MCP",
-              "description": "Lets MCP clients rent a per-minute GPU on CloudGPU: list GPUs and templates, quote the cost, launch with a budget, time and idle limit, run commands, tail logs, transfer files and stop the instance.  🟢 0d 0",
+              "description": "Lets MCP clients rent a per-minute GPU on CloudGPU: list GPUs and templates, quote the cost, launch with a budget, time and idle limit, run commands, tail logs, transfer files and stop the instance.  🟢 1d 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1431,7 +1431,7 @@
             {
               "node_type": "item",
               "title": "Light Cloud",
-              "description": "Deploy and manage apps on the Light Cloud hosting platform: deploy from GitHub or a local folder, environments, logs, metrics, rollbacks, databases, custom domains and billing.  🟢 0d 0",
+              "description": "Deploy and manage apps on the Light Cloud hosting platform: deploy from GitHub or a local folder, environments, logs, metrics, rollbacks, databases, custom domains and billing.  🟢 4d 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1468,7 +1468,7 @@
             {
               "node_type": "item",
               "title": "Puppeteer",
-              "description": "✅ Browser automation and web scraping.  🟢 0d 91.5k",
+              "description": "✅ Browser automation and web scraping.  🟢 3d 91.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1478,10 +1478,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T05:27:40Z",
-                "open_issues": 34,
+                "open_issues": 38,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91718,
+                "stars": 91736,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -1489,7 +1489,7 @@
             {
               "node_type": "item",
               "title": "Brave Search",
-              "description": "✅ Web and local search using Brave's Search API.  🟢 0d 91.5k",
+              "description": "✅ Web and local search using Brave's Search API.  🟢 3d 91.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1499,10 +1499,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T05:27:40Z",
-                "open_issues": 34,
+                "open_issues": 38,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91718,
+                "stars": 91736,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -1510,7 +1510,7 @@
             {
               "node_type": "item",
               "title": "Fetch",
-              "description": "✅ Web content fetching and conversion for efficient LLM usage.  🟢 0d 91.5k",
+              "description": "✅ Web content fetching and conversion for efficient LLM usage.  🟢 3d 91.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1520,10 +1520,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T05:27:40Z",
-                "open_issues": 34,
+                "open_issues": 38,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91718,
+                "stars": 91736,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -1531,7 +1531,7 @@
             {
               "node_type": "item",
               "title": "Playwright",
-              "description": "✅ Provides browser automation capabilities using Playwright.  🟢 3d 38.6k",
+              "description": "✅ Provides browser automation capabilities using Playwright.  🟢 1d 38.9k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1541,10 +1541,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-31T15:20:06Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "playwright-mcp",
-                "stars": 38907,
+                "stars": 38950,
                 "topics": [
                   "mcp",
                   "playwright"
@@ -1576,7 +1576,7 @@
             {
               "node_type": "item",
               "title": "Arcmira: YouTube Transcript Search",
-              "description": "Searches indexed YouTube transcripts for timestamped quotes, speaker appearances, sponsors, and recommendations.  🟢 2d 75",
+              "description": "Searches indexed YouTube transcripts for timestamped quotes, speaker appearances, sponsors, and recommendations.  🟢 2d 78",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1642,7 +1642,7 @@
             {
               "node_type": "item",
               "title": "newsmcp",
-              "description": "Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.  🟡 7mo 35",
+              "description": "Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.  🟡 8mo 35",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1726,7 +1726,7 @@
             {
               "node_type": "item",
               "title": "looot",
-              "description": "Work email and phone lookup, email verification, company and people search, Google results and web page reads, paid per call from one prepaid balance.  🟢 2w 3",
+              "description": "Work email and phone lookup, email verification, company and people search, Google results and web page reads, paid per call from one prepaid balance.  🟢 0d 3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1735,7 +1735,7 @@
                 "id": 1392374143,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T15:11:43Z",
+                "last_commit": "2026-11-01T00:05:23Z",
                 "open_issues": 1,
                 "owner": "loootai",
                 "repo": "looot-mcp",
@@ -1753,6 +1753,39 @@
                 ]
               },
               "first_seen": "2026-10-15T21:31:16.266Z"
+            },
+            {
+              "node_type": "item",
+              "title": "StackScan",
+              "description": "Looks up the technologies on any domain and the company behind it, and reports how many sites run a given technology and where.  🟢 4w 3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MCP server for the StackScan Tech Lookup API. Ask Claude, Cursor or any MCP client what a website is built with and who is behind it.",
+                "homepage": "https://www.stackscan.com/mcp",
+                "id": 1322786566,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-02T05:22:25Z",
+                "open_issues": 0,
+                "owner": "stackscan",
+                "repo": "stackscan-mcp",
+                "stars": 3,
+                "topics": [
+                  "ai-agents",
+                  "api-client",
+                  "builtwith",
+                  "claude",
+                  "cursor",
+                  "firmographics",
+                  "mcp",
+                  "model-context-protocol",
+                  "tech-stack",
+                  "technographics",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-29T01:47:29.421Z"
             },
             {
               "node_type": "item",
@@ -1797,41 +1830,8 @@
             },
             {
               "node_type": "item",
-              "title": "StackScan",
-              "description": "Looks up the technologies on any domain and the company behind it, and reports how many sites run a given technology and where.  🟢 3w 1",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP server for the StackScan Tech Lookup API. Ask Claude, Cursor or any MCP client what a website is built with and who is behind it.",
-                "homepage": "https://www.stackscan.com/mcp",
-                "id": 1322786566,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-02T05:22:25Z",
-                "open_issues": 0,
-                "owner": "stackscan",
-                "repo": "stackscan-mcp",
-                "stars": 2,
-                "topics": [
-                  "ai-agents",
-                  "api-client",
-                  "builtwith",
-                  "claude",
-                  "cursor",
-                  "firmographics",
-                  "mcp",
-                  "model-context-protocol",
-                  "tech-stack",
-                  "technographics",
-                  "typescript"
-                ]
-              },
-              "first_seen": "2026-08-29T01:47:29.421Z"
-            },
-            {
-              "node_type": "item",
               "title": "Statsnet",
-              "description": "Background check any company in the world: registration, executives, courts and finances via remote MCP.  🟢 5w 0",
+              "description": "Background check any company in the world: registration, executives, courts and finances via remote MCP.  🟢 6w 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1891,7 +1891,7 @@
             {
               "node_type": "item",
               "title": "toolkb-mcp",
-              "description": "Returns YouTube transcripts and playlists, web pages as Markdown, and App Store reviews through a local server that needs no API key.  🟢 0d 0",
+              "description": "Returns YouTube transcripts and playlists, web pages as Markdown, and App Store reviews through a local server that needs no API key.  🟢 1d 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1900,8 +1900,8 @@
                 "id": 1425044439,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T10:05:51Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-31T22:33:54Z",
+                "open_issues": 4,
                 "owner": "jack-reson8",
                 "repo": "toolkb-mcp",
                 "stars": 0,
@@ -1923,7 +1923,7 @@
             {
               "node_type": "item",
               "title": "AI Agents Listing",
-              "description": "Search, browse and compare a directory of AI agents, MCP servers and agent skills; find alternatives and see what is trending. Remote server; the read tools need no API key.  🟢 0d 0",
+              "description": "Search, browse and compare a directory of AI agents, MCP servers and agent skills; find alternatives and see what is trending. Remote server; the read tools need no API key.  🟢 6d 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1953,7 +1953,7 @@
             {
               "node_type": "item",
               "title": "AgentSearch",
-              "description": "Real-time web search, URL-to-markdown extraction, and JS page rendering for agents; free keyless search tier, paid calls $0.005 each.  🟢 0d 0",
+              "description": "Real-time web search, URL-to-markdown extraction, and JS page rendering for agents; free keyless search tier, paid calls $0.005 each.  🟢 2d 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1981,7 +1981,7 @@
             {
               "node_type": "item",
               "title": "MarkItDown",
-              "description": "✅ Lightweight STDIO and SSE MCP server for calling MarkItDown.  🟢 2d 192.1k",
+              "description": "✅ Lightweight STDIO and SSE MCP server for calling MarkItDown.  🟢 4d 193.4k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1991,10 +1991,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-28T15:33:14Z",
-                "open_issues": 775,
+                "open_issues": 782,
                 "owner": "microsoft",
                 "repo": "markitdown",
-                "stars": 193233,
+                "stars": 193403,
                 "topics": [
                   "autogen",
                   "autogen-extension",
@@ -2010,7 +2010,7 @@
             {
               "node_type": "item",
               "title": "Google Drive",
-              "description": "✅ File access and search capabilities for Google Drive.  🟢 0d 91.5k",
+              "description": "✅ File access and search capabilities for Google Drive.  🟢 3d 91.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2020,10 +2020,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T05:27:40Z",
-                "open_issues": 34,
+                "open_issues": 38,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91718,
+                "stars": 91736,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -2031,7 +2031,7 @@
             {
               "node_type": "item",
               "title": "Obsidian",
-              "description": "Interact with Obsidian.  🟢 7w 4.5k",
+              "description": "Interact with Obsidian.  🟢 2mo 4.5k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2061,8 +2061,8 @@
                 "id": 960549454,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-31T02:26:57Z",
-                "open_issues": 32,
+                "last_commit": "2026-11-01T07:11:05Z",
+                "open_issues": 34,
                 "owner": "SylphxAI",
                 "repo": "anymd",
                 "stars": 1059,
@@ -2094,7 +2094,7 @@
             {
               "node_type": "item",
               "title": "Taskade MCP",
-              "description": "✅ Official Taskade MCP server with 50+ tools for managing workspaces, projects, tasks, custom AI agents, knowledge bases, and workflow automations. Includes OpenAPI-to-MCP codegen.  🟢 2d 170",
+              "description": "✅ Official Taskade MCP server with 50+ tools for managing workspaces, projects, tasks, custom AI agents, knowledge bases, and workflow automations. Includes OpenAPI-to-MCP codegen.  🟢 1d 170",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2132,7 +2132,7 @@
             {
               "node_type": "item",
               "title": "open-mcp-apps",
-              "description": "MCP Apps engine where the AI builds interactive UI apps — todo boards, habit trackers, dashboards — that persist across conversations, backed by data collections.  🟢 9d 36",
+              "description": "MCP Apps engine where the AI builds interactive UI apps — todo boards, habit trackers, dashboards — that persist across conversations, backed by data collections.  🟢 2w 36",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2164,7 +2164,7 @@
             {
               "node_type": "item",
               "title": "ReadGZH",
-              "description": "Reads public WeChat Official Account articles from a URL and returns clean Markdown via remote MCP tools; anonymous shared quota or optional API key.  🟢 1d 6",
+              "description": "Reads public WeChat Official Account articles from a URL and returns clean Markdown via remote MCP tools; anonymous shared quota or optional API key.  🟢 5d 6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2191,7 +2191,7 @@
             {
               "node_type": "item",
               "title": "Atlassian Browser",
-              "description": "Wraps mcp-atlassian with Playwright browser-cookie login, so its Jira and Confluence tools work on Atlassian Server/Data Center behind corporate SSO (Okta, SAML) where API tokens are not available.  🟢 3w 3",
+              "description": "Wraps mcp-atlassian with Playwright browser-cookie login, so its Jira and Confluence tools work on Atlassian Server/Data Center behind corporate SSO (Okta, SAML) where API tokens are not available.  🟢 3d 3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2233,7 +2233,7 @@
             {
               "node_type": "item",
               "title": "Continuity",
-              "description": "Remote story bible server for fiction writers that stores characters, world rules, timelines, and approved scenes so any MCP client can read canon before writing and run continuity audits.  🟢 2w 0",
+              "description": "Remote story bible server for fiction writers that stores characters, world rules, timelines, and approved scenes so any MCP client can read canon before writing and run continuity audits.  🟢 3w 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2302,7 +2302,7 @@
             {
               "node_type": "item",
               "title": "Slack",
-              "description": "✅ Channel management and messaging capabilities.  🟢 0d 91.5k",
+              "description": "✅ Channel management and messaging capabilities.  🟢 3d 91.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2312,10 +2312,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T05:27:40Z",
-                "open_issues": 34,
+                "open_issues": 38,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91718,
+                "stars": 91736,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -2323,7 +2323,7 @@
             {
               "node_type": "item",
               "title": "WhatsApp",
-              "description": "Search your personal Whatsapp messages, search your contacts and send messages to either individuals or groups.  🔴 1y 6.7k",
+              "description": "Search your personal Whatsapp messages, search your contacts and send messages to either individuals or groups.  🔴 1y 6.8k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2336,7 +2336,7 @@
                 "open_issues": 266,
                 "owner": "lharries",
                 "repo": "whatsapp-mcp",
-                "stars": 6781,
+                "stars": 6788,
                 "topics": [
                   "ai",
                   "mcp",
@@ -2349,7 +2349,7 @@
             {
               "node_type": "item",
               "title": "Atomic Mail",
-              "description": "Gives an agent its own mailbox: it registers an address by proof of work, then reads, sends and searches over JMAP.  🟢 2d 264",
+              "description": "Gives an agent its own mailbox: it registers an address by proof of work, then reads, sends and searches over JMAP.  🟢 1d 268",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2379,7 +2379,7 @@
             {
               "node_type": "item",
               "title": "call4me",
-              "description": "Places real phone calls to businesses for the user (bookings, appointments, cancellations), navigates phone menus and returns the transcript and outcome; hosted at call4.me/mcp with OAuth.  🟢 0d 14",
+              "description": "Places real phone calls to businesses for the user (bookings, appointments, cancellations), navigates phone menus and returns the transcript and outcome; hosted at call4.me/mcp with OAuth.  🟢 0d 16",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2388,7 +2388,7 @@
                 "id": 1389883964,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T20:52:33Z",
+                "last_commit": "2026-11-01T17:10:38Z",
                 "open_issues": 0,
                 "owner": "skeptrunedev",
                 "repo": "call4me",
@@ -2412,7 +2412,7 @@
             {
               "node_type": "item",
               "title": "Telegram Archive",
-              "description": "Searches messages, browses chats and reads archived Telegram history from a Telegram-Archive instance, over stdio or HTTP.  🟢 3d 7",
+              "description": "Searches messages, browses chats and reads archived Telegram history from a Telegram-Archive instance, over stdio or HTTP.  🟢 4d 9",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2425,7 +2425,7 @@
                 "open_issues": 0,
                 "owner": "GeiserX",
                 "repo": "telegram-archive-mcp",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "ai-tools",
                   "archive",
@@ -2454,7 +2454,7 @@
             {
               "node_type": "item",
               "title": "posteverywhere/mcp",
-              "description": "Schedule and publish to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Discord, and Telegram from natural language.  🟢 2d 5",
+              "description": "Schedule and publish to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Discord, and Telegram from natural language.  🟢 9d 6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2496,7 +2496,7 @@
             {
               "node_type": "item",
               "title": "BulkPublish",
-              "description": "Schedules, cross-posts and analyzes posts on 15 social platforms (Instagram, TikTok, YouTube, X, LinkedIn, Bluesky and more), including media uploads, queue slots and inbox replies; hosted with OAuth, or runs locally via npx.  🟢 1d 3",
+              "description": "Schedules, cross-posts and analyzes posts on 15 social platforms (Instagram, TikTok, YouTube, X, LinkedIn, Bluesky and more), including media uploads, queue slots and inbox replies; hosted with OAuth, or runs locally via npx.  🟢 4d 4",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2538,7 +2538,7 @@
             {
               "node_type": "item",
               "title": "SocialRouter",
-              "description": "Unified API to fetch social media data across LinkedIn, Instagram, X, Reddit, TikTok, YouTube, and more, with automatic provider failover.  🟢 3w 1",
+              "description": "Unified API to fetch social media data across LinkedIn, Instagram, X, Reddit, TikTok, YouTube, and more, with automatic provider failover.  🟢 4w 1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2559,7 +2559,7 @@
             {
               "node_type": "item",
               "title": "Fax for Agents",
-              "description": "Sends and receives faxes for AI agents through the Fax for Agents API, with quotes, human review, delegated policies, inbound faxes and delivery evidence, over stdio or a hosted Streamable HTTP endpoint with a bearer key.  🟢 0d 0",
+              "description": "Sends and receives faxes for AI agents through the Fax for Agents API, with quotes, human review, delegated policies, inbound faxes and delivery evidence, over stdio or a hosted Streamable HTTP endpoint with a bearer key.  🟢 1d 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2668,7 +2668,7 @@
             {
               "node_type": "item",
               "title": "Frihet",
-              "description": "AI-native business management with 31 tools for invoicing, expenses, clients, products, quotes, and tax compliance (VeriFactu). Multi-currency, OCR, and Stripe Connect. Supports stdio and remote Streamable HTTP with OAuth 2.0.  🟢 3d 12",
+              "description": "AI-native business management with 31 tools for invoicing, expenses, clients, products, quotes, and tax compliance (VeriFactu). Multi-currency, OCR, and Stripe Connect. Supports stdio and remote Streamable HTTP with OAuth 2.0.  🟢 0d 12",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2677,7 +2677,7 @@
                 "id": 1155891223,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T21:38:50Z",
+                "last_commit": "2026-11-01T15:09:36Z",
                 "open_issues": 13,
                 "owner": "Frihet-io",
                 "repo": "frihet-mcp",
@@ -2709,8 +2709,50 @@
             },
             {
               "node_type": "item",
+              "title": "BestPrice Shopping",
+              "description": "Read-only shopping decisions, product search, live offers, delivered totals, and price history for Greece. No BestPrice account or API key.  🟢 3d 8",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official BestPrice MCP and WebMCP for shopping decisions, product search, offer comparison, and price history",
+                "homepage": "https://www.bestprice.gr/mcp",
+                "id": 1347046887,
+                "language": "JavaScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-29T18:22:31Z",
+                "open_issues": 7,
+                "owner": "TheBestCo",
+                "repo": "bestprice-mcp",
+                "stars": 8,
+                "topics": [
+                  "agent-plugins",
+                  "ai-shopping",
+                  "chatgpt",
+                  "claude",
+                  "conversational-commerce",
+                  "cursor",
+                  "deepseek",
+                  "ecommerce",
+                  "gemini",
+                  "gemini-cli-extension",
+                  "github-copilot",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "price-comparison",
+                  "qwen",
+                  "shopping",
+                  "streamable-http",
+                  "webmcp",
+                  "z-ai"
+                ]
+              },
+              "first_seen": "2026-10-30T22:28:47.633Z"
+            },
+            {
+              "node_type": "item",
               "title": "Toolradar MCP",
-              "description": "Search, compare, and get pricing for 8,600+ software tools with verified data, editorial scores, G2/Capterra ratings, and real alternatives.  🟢 3d 4",
+              "description": "Search, compare, and get pricing for 8,600+ software tools with verified data, editorial scores, G2/Capterra ratings, and real alternatives.  🟢 2d 4",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2861,7 +2903,7 @@
             {
               "node_type": "item",
               "title": "MAQAMI Travel",
-              "description": "Hosted MCP server for MAQAMI hotel and flight booking: search live hotel rates (3M+ hotels) and flight fares, get hotel details, then send the customer a secure checkout link for the exact room or fare they chose, with no API key.  🟢 8d 2",
+              "description": "Hosted MCP server for MAQAMI hotel and flight booking: search live hotel rates (3M+ hotels) and flight fares, get hotel details, then send the customer a secure checkout link for the exact room or fare they chose, with no API key.  🟢 2w 2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2903,7 +2945,7 @@
             {
               "node_type": "item",
               "title": "SkyAccess",
-              "description": "Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key.  🟢 2w 2",
+              "description": "Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key.  🟢 3w 2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2967,7 +3009,7 @@
             {
               "node_type": "item",
               "title": "Google Hotels MCP",
-              "description": "Search Google Hotels and Vacation Rentals with per-OTA nightly rates from Booking.com, Expedia, Agoda, Vrbo, Airbnb, Hotels.com and 10+ other providers, plus a 3-month daily price calendar and party-size filters. Pay-per-use via Apify (bring your own APIFY_TOKEN).  🟢 9d 1",
+              "description": "Search Google Hotels and Vacation Rentals with per-OTA nightly rates from Booking.com, Expedia, Agoda, Vrbo, Airbnb, Hotels.com and 10+ other providers, plus a 3-month daily price calendar and party-size filters. Pay-per-use via Apify (bring your own APIFY_TOKEN).  🟢 2w 1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3005,6 +3047,47 @@
                 ]
               },
               "first_seen": "2026-10-17T20:44:12.554Z"
+            },
+            {
+              "node_type": "item",
+              "title": "App Store & Google Play Review Intelligence",
+              "description": "Searches iOS App Store and Google Play apps and analyzes their recent reviews: rating trend by app version, recurring complaints and requests, and side-by-side competitor comparison.  🟢 5d 1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MCP server: review intelligence for any App Store or Google Play app. Top complaints, rating by version, what got worse in the latest update, competitor comparison. Hosted on Apify.",
+                "homepage": "https://apify.com/parallelstudio/app-store-review-intelligence-mcp",
+                "id": 1414785600,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-27T22:11:54Z",
+                "open_issues": 0,
+                "owner": "gunnargray-dev",
+                "repo": "app-store-review-intelligence-mcp",
+                "stars": 1,
+                "topics": [
+                  "ai-agents",
+                  "android",
+                  "apify",
+                  "app-reviews",
+                  "app-store",
+                  "app-store-optimization",
+                  "aso",
+                  "claude",
+                  "competitor-analysis",
+                  "cursor",
+                  "google-play",
+                  "ios",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "product-analytics",
+                  "reviews",
+                  "sentiment-analysis",
+                  "user-feedback"
+                ]
+              },
+              "first_seen": "2026-10-22T21:44:47.074Z"
             },
             {
               "node_type": "item",
@@ -3093,47 +3176,6 @@
             },
             {
               "node_type": "item",
-              "title": "App Store & Google Play Review Intelligence",
-              "description": "Searches iOS App Store and Google Play apps and analyzes their recent reviews: rating trend by app version, recurring complaints and requests, and side-by-side competitor comparison.  🟢 6d 0",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP server: review intelligence for any App Store or Google Play app. Top complaints, rating by version, what got worse in the latest update, competitor comparison. Hosted on Apify.",
-                "homepage": "https://apify.com/parallelstudio/app-store-review-intelligence-mcp",
-                "id": 1414785600,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-27T22:11:54Z",
-                "open_issues": 0,
-                "owner": "gunnargray-dev",
-                "repo": "app-store-review-intelligence-mcp",
-                "stars": 1,
-                "topics": [
-                  "ai-agents",
-                  "android",
-                  "apify",
-                  "app-reviews",
-                  "app-store",
-                  "app-store-optimization",
-                  "aso",
-                  "claude",
-                  "competitor-analysis",
-                  "cursor",
-                  "google-play",
-                  "ios",
-                  "mcp",
-                  "mcp-server",
-                  "model-context-protocol",
-                  "product-analytics",
-                  "reviews",
-                  "sentiment-analysis",
-                  "user-feedback"
-                ]
-              },
-              "first_seen": "2026-10-22T21:44:47.074Z"
-            },
-            {
-              "node_type": "item",
               "title": "Lintelly HR Deutschland",
               "description": "German employment law for small companies with 38 read-only tools for notice periods, employer costs, sick pay, maternity protection and contract clauses, each answer with calculation and official source.  🟢 0d 0",
               "children": [],
@@ -3144,9 +3186,9 @@
                 "id": 1431113864,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T04:10:12Z",
-                "open_issues": 2,
-                "owner": "NicksAdvisory",
+                "last_commit": "2026-11-01T10:41:07Z",
+                "open_issues": 3,
+                "owner": "Lintelly",
                 "repo": "lintelly-hr-deutschland",
                 "stars": 0,
                 "topics": [
@@ -3161,48 +3203,6 @@
                 ]
               },
               "first_seen": "2026-10-27T22:24:30.968Z"
-            },
-            {
-              "node_type": "item",
-              "title": "BestPrice Shopping",
-              "description": "Read-only shopping decisions, product search, live offers, delivered totals, and price history for Greece. No BestPrice account or API key.  🟢 0d 0",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official BestPrice MCP and WebMCP for shopping decisions, product search, offer comparison, and price history",
-                "homepage": "https://www.bestprice.gr/mcp",
-                "id": 1347046887,
-                "language": "JavaScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-29T18:22:31Z",
-                "open_issues": 7,
-                "owner": "TheBestCo",
-                "repo": "bestprice-mcp",
-                "stars": 8,
-                "topics": [
-                  "agent-plugins",
-                  "ai-shopping",
-                  "chatgpt",
-                  "claude",
-                  "conversational-commerce",
-                  "cursor",
-                  "deepseek",
-                  "ecommerce",
-                  "gemini",
-                  "gemini-cli-extension",
-                  "github-copilot",
-                  "mcp",
-                  "mcp-server",
-                  "model-context-protocol",
-                  "price-comparison",
-                  "qwen",
-                  "shopping",
-                  "streamable-http",
-                  "webmcp",
-                  "z-ai"
-                ]
-              },
-              "first_seen": "2026-10-30T22:28:47.633Z"
             }
           ],
           "description": null,
@@ -3214,7 +3214,7 @@
             {
               "node_type": "item",
               "title": "Memory",
-              "description": "✅ Knowledge graph-based persistent memory system.  🟢 0d 91.5k",
+              "description": "✅ Knowledge graph-based persistent memory system.  🟢 3d 91.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3224,10 +3224,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T05:27:40Z",
-                "open_issues": 34,
+                "open_issues": 38,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91718,
+                "stars": 91736,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -3235,7 +3235,7 @@
             {
               "node_type": "item",
               "title": "Concord MCP",
-              "description": "Local-first shared work-state for coding agents: presence, file claims, messaging, handoffs and review packets so multiple agents (Claude Code, Cursor, Codex, etc.) can coordinate on one repo.  🟢 2d 669",
+              "description": "Local-first shared work-state for coding agents: presence, file claims, messaging, handoffs and review packets so multiple agents (Claude Code, Cursor, Codex, etc.) can coordinate on one repo.  🟢 2d 817",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3248,7 +3248,7 @@
                 "open_issues": 46,
                 "owner": "Get-Concord-AI",
                 "repo": "concord-mcp",
-                "stars": 802,
+                "stars": 824,
                 "topics": [
                   "agentic-coding",
                   "ai-agents",
@@ -3268,7 +3268,7 @@
             {
               "node_type": "item",
               "title": "SandBase CLI",
-              "description": "Local MCP bridge that connects 25 AI clients to 2,000+ models and APIs through six MCP tools.  🟢 1d 184",
+              "description": "Local MCP bridge that connects 25 AI clients to 2,000+ models and APIs through six MCP tools.  🟢 8d 185",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3331,7 +3331,7 @@
             {
               "node_type": "item",
               "title": "EGC",
-              "description": "Persistent cross-session memory MCP server for 13+ AI coding tools. SQLite-backed state survives context resets and keeps Claude Code, Cursor, Gemini CLI, Codex, and more in sync.  🟢 1d 67",
+              "description": "Persistent cross-session memory MCP server for 13+ AI coding tools. SQLite-backed state survives context resets and keeps Claude Code, Cursor, Gemini CLI, Codex, and more in sync.  🟢 1d 68",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3340,8 +3340,8 @@
                 "id": 1231288768,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T14:34:14Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-01T21:43:36Z",
+                "open_issues": 2,
                 "owner": "Fmarzochi",
                 "repo": "EGC",
                 "stars": 68,
@@ -3411,6 +3411,45 @@
             },
             {
               "node_type": "item",
+              "title": "Mnemosyne OS",
+              "description": "Stdio MCP server for Mnemosyne OS, a desktop memory app. Watched folders feed separate vaults on the user's machine, searched by vector and local BM25. Open core: the MCP server is MIT, the memory engine ships closed in the desktop app.  🟢 0d 20",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A control room for AI memory. Your files and conversations become searchable memory any model you connect can draw on, and you decide what enters, what moves and what leaves. Vaults live on your hardware. Windows, macOS, Linux.",
+                "homepage": "https://mnemosyne-os.io",
+                "id": 1197439466,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-01T05:16:38Z",
+                "open_issues": 3,
+                "owner": "Mnemosyne-OS",
+                "repo": "Mnemosyne-Neural-OS",
+                "stars": 20,
+                "topics": [
+                  "ai",
+                  "ai-memory",
+                  "claude",
+                  "electron",
+                  "llm",
+                  "local-first",
+                  "mcp",
+                  "mcp-server",
+                  "memory",
+                  "mnemosyne",
+                  "model-context-protocol",
+                  "multi-agent",
+                  "privacy",
+                  "rag",
+                  "react",
+                  "sovereign-ai",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-10-30T22:28:47.633Z"
+            },
+            {
+              "node_type": "item",
               "title": "WritBase",
               "description": "MCP-native task management for AI agent fleets with multi-agent permissions, delegation safety, and full provenance.  🟡 7mo 11",
               "children": [],
@@ -3442,180 +3481,8 @@
             },
             {
               "node_type": "item",
-              "title": "field-notes-mcp",
-              "description": "Shared cross-run memory for AI agents over a plain-text board (board_read, board_write, board_wait).  🟢 5w 2",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Standalone MCP server for the field-notes agent message board",
-                "homepage": null,
-                "id": 1358624987,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-09-20T18:43:45Z",
-                "open_issues": 0,
-                "owner": "mq1n",
-                "repo": "field-notes-mcp",
-                "stars": 2,
-                "topics": [
-                  "ai-agents",
-                  "gemini-cli-extension",
-                  "mcp",
-                  "message-board",
-                  "model-context-protocol"
-                ]
-              },
-              "first_seen": "2026-09-24T21:36:31.464Z"
-            },
-            {
-              "node_type": "item",
-              "title": "PraisonAI",
-              "description": "AI Agents framework with 64+ built-in MCP tools for search, memory, workflows, code execution, and file operations.  🟡 9mo 1",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP server that exposes PraisonAI tools for Claude Desktop, Cursor, and other MCP clients",
-                "homepage": null,
-                "id": 1119194574,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-01-13T13:58:19Z",
-                "open_issues": 0,
-                "owner": "MervinPraison",
-                "repo": "praisonai-mcp",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:47:29.421Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Skillselion",
-              "description": "Loads community agent skills on demand, materializing a matching SKILL.md and its bundled files into the session, and can merge the top matches into one provenance-tagged digest.  🟢 2mo 1",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP server to search Skillselion's curated directory of Claude Code skills, MCP servers & plugin marketplaces, ranked by installs and GitHub stars.",
-                "homepage": "https://skillselion.com",
-                "id": 1276616087,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-08-25T03:03:51Z",
-                "open_issues": 0,
-                "owner": "skillselion",
-                "repo": "skillselion-mcp",
-                "stars": 2,
-                "topics": [
-                  "agent-skills",
-                  "ai-agents",
-                  "ai-tools",
-                  "anthropic",
-                  "claude",
-                  "claude-code",
-                  "claude-mcp",
-                  "directory",
-                  "mcp",
-                  "mcp-server",
-                  "model-context-protocol",
-                  "skillselion"
-                ]
-              },
-              "first_seen": "2026-08-29T01:47:29.421Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Nanotea",
-              "description": "Self-hosted messaging app where coding agents report and ask over MCP and you answer by typing, tapping or recording, so you can direct a whole fleet without living in their terminals.  🟢 12d 1",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Direct a whole fleet of coding agents without living in their terminals. Over MCP, for any harness.",
-                "homepage": null,
-                "id": 1409498907,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-13T02:32:37Z",
-                "open_issues": 0,
-                "owner": "gileshall",
-                "repo": "nanotea",
-                "stars": 1,
-                "topics": [
-                  "ai-agents",
-                  "coding-agents",
-                  "developer-tools",
-                  "mcp",
-                  "self-hosted"
-                ]
-              },
-              "first_seen": "2026-10-09T22:44:36.193Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Anansi Haven",
-              "description": "Free home base for AI agents with persistent memory, encrypted private storage, a job board, agent directory and skills library over MCP, A2A and HTTP.  🟢 0d 0",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Anansi Haven: home base for AI agents (21 MCP tools, persistent memory, jobs, A2A directory) + Farcaster Arcade high-score challenge.",
-                "homepage": "https://anansi-haven.anansidata.workers.dev",
-                "id": 1404674330,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-10-29T18:50:04Z",
-                "open_issues": 1,
-                "owner": "kburrus64-max",
-                "repo": "anansi-haven",
-                "stars": 0,
-                "topics": [
-                  "a2a",
-                  "agent-memory",
-                  "ai-agents",
-                  "base",
-                  "cloudflare-workers",
-                  "farcaster",
-                  "mcp",
-                  "mcp-server",
-                  "model-context-protocol"
-                ]
-              },
-              "first_seen": "2026-10-13T00:50:05.680Z"
-            },
-            {
-              "node_type": "item",
-              "title": "needhave",
-              "description": "Public need/have board for AI agents over remote MCP, where agents read the live list and post their own needs or haves with no account or API key.  🟢 4d 0",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Craigslist for agents: a public need/have list any agent can read and post to over remote MCP (https://needhave.io/mcp, no key). The list itself lives at needhave.io.",
-                "homepage": "https://needhave.io",
-                "id": 1427854900,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-10-21T04:00:32Z",
-                "open_issues": 0,
-                "owner": "PrivateAISystems",
-                "repo": "needhave",
-                "stars": 0,
-                "topics": [
-                  "agent",
-                  "agent-to-agent",
-                  "ai-agents",
-                  "cloudflare-workers",
-                  "list",
-                  "mcp",
-                  "mcp-server",
-                  "model-context-protocol",
-                  "needhave",
-                  "remote-mcp-server"
-                ]
-              },
-              "first_seen": "2026-10-21T21:49:26.242Z"
-            },
-            {
-              "node_type": "item",
               "title": "Scalekit MCP Server",
-              "description": "Hosted MCP server that lets agents set up and manage Scalekit agent integrations, 600+ connectors and 35,000+ tools with per-user OAuth, plus environments, organizations, users, roles and scopes.  🟢 0d 0",
+              "description": "Hosted MCP server that lets agents set up and manage Scalekit agent integrations, 600+ connectors and 35,000+ tools with per-user OAuth, plus environments, organizations, users, roles and scopes.  🟢 5d 5",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3648,42 +3515,196 @@
             },
             {
               "node_type": "item",
-              "title": "Mnemosyne OS",
-              "description": "Stdio MCP server for Mnemosyne OS, a desktop memory app. Watched folders feed separate vaults on the user's machine, searched by vector and local BM25. Open core: the MCP server is MIT, the memory engine ships closed in the desktop app.  🟢 0d 0",
+              "title": "field-notes-mcp",
+              "description": "Shared cross-run memory for AI agents over a plain-text board (board_read, board_write, board_wait).  🟢 6w 2",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A control room for AI memory. Your files and conversations become searchable memory any model you connect can draw on, and you decide what enters, what moves and what leaves. Vaults live on your hardware. Windows, macOS, Linux.",
-                "homepage": "https://mnemosyne-os.io",
-                "id": 1197439466,
-                "language": "TypeScript",
+                "description": "Standalone MCP server for the field-notes agent message board",
+                "homepage": null,
+                "id": 1358624987,
+                "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T16:41:37Z",
-                "open_issues": 2,
-                "owner": "Mnemosyne-OS",
-                "repo": "Mnemosyne-Neural-OS",
-                "stars": 20,
+                "last_commit": "2026-09-20T18:43:45Z",
+                "open_issues": 0,
+                "owner": "mq1n",
+                "repo": "field-notes-mcp",
+                "stars": 2,
                 "topics": [
-                  "ai",
-                  "ai-memory",
-                  "claude",
-                  "electron",
-                  "llm",
-                  "local-first",
+                  "ai-agents",
+                  "gemini-cli-extension",
                   "mcp",
-                  "mcp-server",
-                  "memory",
-                  "mnemosyne",
-                  "model-context-protocol",
-                  "multi-agent",
-                  "privacy",
-                  "rag",
-                  "react",
-                  "sovereign-ai",
-                  "typescript"
+                  "message-board",
+                  "model-context-protocol"
                 ]
               },
-              "first_seen": "2026-10-30T22:28:47.633Z"
+              "first_seen": "2026-09-24T21:36:31.464Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Skillselion",
+              "description": "Loads community agent skills on demand, materializing a matching SKILL.md and its bundled files into the session, and can merge the top matches into one provenance-tagged digest.  🟢 2mo 2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MCP server to search Skillselion's curated directory of Claude Code skills, MCP servers & plugin marketplaces, ranked by installs and GitHub stars.",
+                "homepage": "https://skillselion.com",
+                "id": 1276616087,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-08-25T03:03:51Z",
+                "open_issues": 0,
+                "owner": "skillselion",
+                "repo": "skillselion-mcp",
+                "stars": 2,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "ai-tools",
+                  "anthropic",
+                  "claude",
+                  "claude-code",
+                  "claude-mcp",
+                  "directory",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "skillselion"
+                ]
+              },
+              "first_seen": "2026-08-29T01:47:29.421Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PraisonAI",
+              "description": "AI Agents framework with 64+ built-in MCP tools for search, memory, workflows, code execution, and file operations.  🟡 9mo 1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MCP server that exposes PraisonAI tools for Claude Desktop, Cursor, and other MCP clients",
+                "homepage": null,
+                "id": 1119194574,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-01-13T13:58:19Z",
+                "open_issues": 0,
+                "owner": "MervinPraison",
+                "repo": "praisonai-mcp",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:47:29.421Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Nanotea",
+              "description": "Self-hosted messaging app where coding agents report and ask over MCP and you answer by typing, tapping or recording, so you can direct a whole fleet without living in their terminals.  🟢 2w 1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Direct a whole fleet of coding agents without living in their terminals. Over MCP, for any harness.",
+                "homepage": null,
+                "id": 1409498907,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-13T02:32:37Z",
+                "open_issues": 0,
+                "owner": "gileshall",
+                "repo": "nanotea",
+                "stars": 1,
+                "topics": [
+                  "ai-agents",
+                  "coding-agents",
+                  "developer-tools",
+                  "mcp",
+                  "self-hosted"
+                ]
+              },
+              "first_seen": "2026-10-09T22:44:36.193Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Anansi Haven",
+              "description": "Free home base for AI agents with persistent memory, encrypted private storage, a job board, agent directory and skills library over MCP, A2A and HTTP.  🟢 3d 0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Anansi Haven: home base for AI agents (21 MCP tools, persistent memory, jobs, A2A directory) + Farcaster Arcade high-score challenge.",
+                "homepage": "https://anansi-haven.anansidata.workers.dev",
+                "id": 1404674330,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-29T18:50:04Z",
+                "open_issues": 1,
+                "owner": "kburrus64-max",
+                "repo": "anansi-haven",
+                "stars": 0,
+                "topics": [
+                  "a2a",
+                  "agent-memory",
+                  "ai-agents",
+                  "base",
+                  "cloudflare-workers",
+                  "farcaster",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol"
+                ]
+              },
+              "first_seen": "2026-10-13T00:50:05.680Z"
+            },
+            {
+              "node_type": "item",
+              "title": "needhave",
+              "description": "Public need/have board for AI agents over remote MCP, where agents read the live list and post their own needs or haves with no account or API key.  🟢 11d 0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Craigslist for agents: a public need/have list any agent can read and post to over remote MCP (https://needhave.io/mcp, no key). The list itself lives at needhave.io.",
+                "homepage": "https://needhave.io",
+                "id": 1427854900,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-21T04:00:32Z",
+                "open_issues": 0,
+                "owner": "PrivateAISystems",
+                "repo": "needhave",
+                "stars": 0,
+                "topics": [
+                  "agent",
+                  "agent-to-agent",
+                  "ai-agents",
+                  "cloudflare-workers",
+                  "list",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "needhave",
+                  "remote-mcp-server"
+                ]
+              },
+              "first_seen": "2026-10-21T21:49:26.242Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Living Stack Community",
+              "description": "Seven-tool MCP proof loop that authorizes and records agent actions locally, storing inputs only as SHA-256 digests.  🟢 3d 0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free seven-tool proof loop for Living Stack MCP",
+                "homepage": null,
+                "id": 1354632827,
+                "language": "JavaScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-29T04:54:31Z",
+                "open_issues": 1,
+                "owner": "equinoxaifinance-rgb",
+                "repo": "living-stack-community",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-01T22:11:10.426Z"
             }
           ],
           "description": null,
@@ -3695,7 +3716,7 @@
             {
               "node_type": "item",
               "title": "Blender",
-              "description": "Interact with and control Blender using prompt assisted 3D modeling, scene creation, and manipulation.  🟢 1d 32.3k",
+              "description": "Interact with and control Blender using prompt assisted 3D modeling, scene creation, and manipulation.  🟢 3d 33k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3705,10 +3726,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-29T09:13:34Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "ahujasid",
                 "repo": "mcp-for-blender",
-                "stars": 32913,
+                "stars": 32994,
                 "topics": [
                   "3d-modeling",
                   "ai",
@@ -3728,7 +3749,7 @@
             {
               "node_type": "item",
               "title": "Funplay MCP for Unity",
-              "description": "Unity Editor MCP server with execute_code, play mode automation, screenshots, input simulation, prompts, and resources.  🟢 2w 267",
+              "description": "Unity Editor MCP server with execute_code, play mode automation, screenshots, input simulation, prompts, and resources.  🟢 4d 278",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3741,7 +3762,7 @@
                 "open_issues": 3,
                 "owner": "FunplayAI",
                 "repo": "funplay-unity-mcp",
-                "stars": 276,
+                "stars": 278,
                 "topics": [
                   "ai",
                   "ai-tools",
@@ -3765,7 +3786,7 @@
             {
               "node_type": "item",
               "title": "RunAPI",
-              "description": "MCP server for model discovery and AI image, video, music/audio, text-to-speech, and LLM jobs via RunAPI.  🟢 2d 56",
+              "description": "MCP server for model discovery and AI image, video, music/audio, text-to-speech, and LLM jobs via RunAPI.  🟢 3d 56",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3799,7 +3820,7 @@
             {
               "node_type": "item",
               "title": "YouTube Transcript",
-              "description": "Fetches YouTube transcripts, searches videos and channels, and lists channel uploads and playlists via the getyoutubetranscript.com API, as a local stdio server or a hosted endpoint.  🟢 8d 22",
+              "description": "Fetches YouTube transcripts, searches videos and channels, and lists channel uploads and playlists via the getyoutubetranscript.com API, as a local stdio server or a hosted endpoint.  🟢 2d 24",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3838,7 +3859,7 @@
             {
               "node_type": "item",
               "title": "Magic Hour",
-              "description": "Hosted first-party server that lets agents generate and edit video, images, and audio through Magic Hour's API.  🟢 0d 8",
+              "description": "Hosted first-party server that lets agents generate and edit video, images, and audio through Magic Hour's API.  🟢 2d 10",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3872,7 +3893,7 @@
             {
               "node_type": "item",
               "title": "VideoGen MCP",
-              "description": "Create editable videos from storyboards/scripts, generate media, edit projects and export via VideoGen; hosted HTTP or local stdio, account and generation credits required.  🟢 0d 4",
+              "description": "Create editable videos from storyboards/scripts, generate media, edit projects and export via VideoGen; hosted HTTP or local stdio, account and generation credits required.  🟢 7d 4",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3902,7 +3923,7 @@
             {
               "node_type": "item",
               "title": "Unsora",
-              "description": "First-party remote server that lets agents generate images, video, music and voiceovers, clip long videos into shorts, and schedule or publish posts to YouTube, TikTok, Instagram, Facebook, LinkedIn, Bluesky, Threads and Pinterest through Unsora's API.  🟢 5d 3",
+              "description": "First-party remote server that lets agents generate images, video, music and voiceovers, clip long videos into shorts, and schedule or publish posts to YouTube, TikTok, Instagram, Facebook, LinkedIn, Bluesky, Threads and Pinterest through Unsora's API.  🟢 0d 3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3911,7 +3932,7 @@
                 "id": 1402319952,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-31T20:22:51Z",
+                "last_commit": "2026-11-01T21:54:10Z",
                 "open_issues": 0,
                 "owner": "Shipped-Studio",
                 "repo": "unsora",
@@ -3986,7 +4007,7 @@
             {
               "node_type": "item",
               "title": "Engine DJ",
-              "description": "Searches, audits and builds playlists in a local Engine DJ (Denon) library: BPM and Camelot key search, duplicate and missing-file audits, cues and beatgrids, opt-in playlist and tag edits.  🟢 8d 1",
+              "description": "Searches, audits and builds playlists in a local Engine DJ (Denon) library: BPM and Camelot key search, duplicate and missing-file audits, cues and beatgrids, opt-in playlist and tag edits.  🟢 2w 1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4021,7 +4042,7 @@
             {
               "node_type": "item",
               "title": "Internet Radio",
-              "description": "Searches the public-domain Radio Browser directory for live internet radio stations by name, country, genre or language, and returns stream URLs plus top and trending stations.  🟢 12d 1",
+              "description": "Searches the public-domain Radio Browser directory for live internet radio stations by name, country, genre or language, and returns stream URLs plus top and trending stations.  🟢 2w 1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4056,7 +4077,7 @@
             {
               "node_type": "item",
               "title": "Serato DJ",
-              "description": "Searches and audits a local Serato DJ library by BPM and Camelot key, lists crates, finds duplicates and missing files, and builds new crates with a preview before writing.  🟢 4w 1",
+              "description": "Searches and audits a local Serato DJ library by BPM and Camelot key, lists crates, finds duplicates and missing files, and builds new crates with a preview before writing.  🟢 5w 1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4091,7 +4112,7 @@
             {
               "node_type": "item",
               "title": "UpRes",
-              "description": "Official MCP server for upres.ai: AI image and video upscaling up to 8K with 6 models, batch jobs, and direct download links.  🟢 8d 0",
+              "description": "Official MCP server for upres.ai: AI image and video upscaling up to 8K with 6 models, batch jobs, and direct download links.  🟢 2w 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4123,7 +4144,7 @@
             {
               "node_type": "item",
               "title": "Bandcamp",
-              "description": "Searches Bandcamp artists, albums, labels and tracks, browses genre tags and reads tracklists and prices, with no account or API key.  🟢 11d 0",
+              "description": "Searches Bandcamp artists, albums, labels and tracks, browses genre tags and reads tracklists and prices, with no account or API key.  🟢 2w 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4155,7 +4176,7 @@
             {
               "node_type": "item",
               "title": "Yap MCP",
-              "description": "Transcribes local audio and video files on your computer (25 European languages, no API key, no upload) and searches your Yap dictation history.  🟢 6d 0",
+              "description": "Transcribes local audio and video files on your computer (25 European languages, no API key, no upload) and searches your Yap dictation history.  🟢 13d 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4196,7 +4217,7 @@
             {
               "node_type": "item",
               "title": "YouTube Transcripts",
-              "description": "Fetches transcripts of public YouTube videos in any caption language, searches YouTube with filters, returns chapters (or derived topic segments) and builds extractive summaries with timestamps; no YouTube API key needed, hosted on Apify or run locally.  🟢 0d 0",
+              "description": "Fetches transcripts of public YouTube videos in any caption language, searches YouTube with filters, returns chapters (or derived topic segments) and builds extractive summaries with timestamps; no YouTube API key needed, hosted on Apify or run locally.  🟢 6d 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4234,7 +4255,7 @@
             {
               "node_type": "item",
               "title": "MakeAIVideo",
-              "description": "Creates short-form AI videos (script, voiceover, AI or stock scenes, captions, music) and posts or schedules them to connected social accounts; hosted HTTP or local stdio, MakeAIVideo account and credits required.  🟢 0d 0",
+              "description": "Creates short-form AI videos (script, voiceover, AI or stock scenes, captions, music) and posts or schedules them to connected social accounts; hosted HTTP or local stdio, MakeAIVideo account and credits required.  🟢 2w 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4283,7 +4304,7 @@
             {
               "node_type": "item",
               "title": "Equibles",
-              "description": "Self-hosted financial data MCP server for US companies: SEC filings with full-text search, XBRL financial statements, 13F holdings, insider and congressional trades, short interest and FRED macro series.  🟢 0d 239",
+              "description": "Self-hosted financial data MCP server for US companies: SEC filings with full-text search, XBRL financial statements, 13F holdings, insider and congressional trades, short interest and FRED macro series.  🟢 0d 240",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4292,8 +4313,8 @@
                 "id": 1191114524,
                 "language": "C#",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-30T20:17:28Z",
-                "open_issues": 44,
+                "last_commit": "2026-11-01T21:11:15Z",
+                "open_issues": 35,
                 "owner": "daniel3303",
                 "repo": "Equibles",
                 "stars": 240,
@@ -4325,7 +4346,7 @@
             {
               "node_type": "item",
               "title": "Tapetide",
-              "description": "Indian stock market (NSE and BSE) data for about 8,200 stocks through 55 tools: live quotes, financials, technicals, a 326-ratio fundamental screener and a technical screener, analyst ratings, shareholding, FII/DII flows, option chains and IV, parsed filings, IPOs, and portfolio and watchlist tracking. Runs locally over stdio or as a hosted Streamable HTTP endpoint with OAuth 2.1.  🟢 11d 142",
+              "description": "Indian stock market (NSE and BSE) data for about 8,200 stocks through 55 tools: live quotes, financials, technicals, a 326-ratio fundamental screener and a technical screener, analyst ratings, shareholding, FII/DII flows, option chains and IV, parsed filings, IPOs, and portfolio and watchlist tracking. Runs locally over stdio or as a hosted Streamable HTTP endpoint with OAuth 2.1.  🟢 4d 145",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4367,7 +4388,7 @@
             {
               "node_type": "item",
               "title": "Aikount",
-              "description": "Spanish accounting for freelancers and SMEs through the Aikount API: sales invoices, expense PDF import by OCR with duplicate detection, bank reconciliation, PGC ledger and trial balance, and the quarterly VAT return (Modelo 303). Runs locally over stdio or as a hosted Streamable HTTP endpoint.  🟢 6d 3",
+              "description": "Spanish accounting for freelancers and SMEs through the Aikount API: sales invoices, expense PDF import by OCR with duplicate detection, bank reconciliation, PGC ledger and trial balance, and the quarterly VAT return (Modelo 303). Runs locally over stdio or as a hosted Streamable HTTP endpoint.  🟢 5d 4",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4418,7 +4439,7 @@
                 "id": 1404240757,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T11:57:35Z",
+                "last_commit": "2026-11-01T19:51:34Z",
                 "open_issues": 2,
                 "owner": "blockvectra",
                 "repo": "mcp",
@@ -4446,50 +4467,8 @@
             },
             {
               "node_type": "item",
-              "title": "canli-validation-mcp",
-              "description": "Checks whether a backtest result is real or just the luckiest of the variants tried: deflated Sharpe ratio, CSCV probability of backtest overfitting, data-snooping tests (Hansen's SPA, White's Reality Check, Romano-Wolf StepM), a lookahead check and a pipeline placebo test. Runs locally over stdio or at a hosted Streamable HTTP endpoint with no key.  🟢 9d 1",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP server that catches fake backtests before you trust them: deflated Sharpe ratio, backtest overfitting (CSCV/PBO), data-snooping tests (White's Reality Check, Hansen's SPA), lookahead checks and pipeline placebos. 20 tools for Claude, Cursor and any MCP client; on npm, the MCP Registry and hosted at canlicapital.com/mcp.",
-                "homepage": "https://canlicapital.com/developers",
-                "id": 1387381389,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-10-30T22:35:03Z",
-                "open_issues": 10,
-                "owner": "arhancanli",
-                "repo": "canli-validation-mcp",
-                "stars": 1,
-                "topics": [
-                  "ai-agents",
-                  "algorithmic-trading",
-                  "backtest-overfitting",
-                  "backtesting",
-                  "claude",
-                  "cursor",
-                  "data-snooping",
-                  "deflated-sharpe-ratio",
-                  "finance",
-                  "lookahead-bias",
-                  "mcp",
-                  "mcp-server",
-                  "model-context-protocol",
-                  "multiple-testing",
-                  "overfitting",
-                  "quant",
-                  "quantitative-finance",
-                  "sharpe-ratio",
-                  "statistics",
-                  "trading"
-                ]
-              },
-              "first_seen": "2026-10-06T00:09:18.678Z"
-            },
-            {
-              "node_type": "item",
               "title": "MoltNode by Chord",
-              "description": "Hosted no-key MCP: read 31 blockchains over JSON-RPC, get DEX swap quotes and unsigned transactions via Chord.  🟢 5d 1",
+              "description": "Hosted no-key MCP: read 31 blockchains over JSON-RPC, get DEX swap quotes and unsigned transactions via Chord.  🟢 3d 2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4530,63 +4509,6 @@
             },
             {
               "node_type": "item",
-              "title": "Invompt",
-              "description": "Turn AI-host work into invoices you review before send; Continue as guest or OAuth via hosted MCP.  🟢 3d 0",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Create invoices, quotes, estimates, and pro formas from your AI assistant. Review before sending. Hosted MCP with OAuth; start without an account.",
-                "homepage": "https://invompt.com",
-                "id": 1323261184,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-31T11:32:57Z",
-                "open_issues": 14,
-                "owner": "Invompt",
-                "repo": "invompt-mcp",
-                "stars": 0,
-                "topics": [
-                  "ai-agents",
-                  "invoices",
-                  "mcp",
-                  "model-context-protocol",
-                  "typescript"
-                ]
-              },
-              "first_seen": "2026-10-03T04:26:09.001Z"
-            },
-            {
-              "node_type": "item",
-              "title": "FXMacroData",
-              "description": "Official-source macroeconomic data for 22 currencies through 8 tools: indicator time series with announcement dates, release calendars, the indicator catalogue, FX spot rates, COT positioning, commodities, FX market sessions and a ping check. Recent USD releases, the USD calendar and USD COT positioning work without an API key.  🟢 2w 0",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP server for the FXMacroData API — macroeconomic indicators, release calendars, COT, commodities, and forex for AI agents. Works with Claude Desktop, Cursor, VS Code, OpenClaw, and any MCP client.",
-                "homepage": "https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral&utm_campaign=mcp-server-fxmacrodata&utm_content=homepage",
-                "id": 1212091028,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-06T03:06:34Z",
-                "open_issues": 0,
-                "owner": "fxmacrodata",
-                "repo": "mcp-server-fxmacrodata",
-                "stars": 0,
-                "topics": [
-                  "ai-agents",
-                  "claude",
-                  "finance",
-                  "forex",
-                  "llm-tools",
-                  "macroeconomics",
-                  "mcp",
-                  "model-context-protocol"
-                ]
-              },
-              "first_seen": "2026-10-07T23:11:18.374Z"
-            },
-            {
-              "node_type": "item",
               "title": "Zovo MCP Office Suite",
               "description": "58 MIT-licensed back-office servers for invoices, quotes, credit notes, PDFs, spreadsheets, Word documents, bank statements, time tracking, expenses and mileage: run locally over stdio against your own files, or use the 46 hosted endpoints with a free token.  🟢 0d 2",
               "children": [],
@@ -4597,7 +4519,7 @@
                 "id": 1354759574,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T05:41:57Z",
+                "last_commit": "2026-11-01T13:00:04Z",
                 "open_issues": 6,
                 "owner": "theluckystrike",
                 "repo": "mcp-servers",
@@ -4629,8 +4551,107 @@
             },
             {
               "node_type": "item",
+              "title": "canli-validation-mcp",
+              "description": "Checks whether a backtest result is real or just the luckiest of the variants tried: deflated Sharpe ratio, CSCV probability of backtest overfitting, data-snooping tests (Hansen's SPA, White's Reality Check, Romano-Wolf StepM), a lookahead check and a pipeline placebo test. Runs locally over stdio or at a hosted Streamable HTTP endpoint with no key.  🟢 2d 1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MCP server that catches fake backtests before you trust them: deflated Sharpe ratio, backtest overfitting (CSCV/PBO), data-snooping tests (White's Reality Check, Hansen's SPA), lookahead checks and pipeline placebos. 20 tools for Claude, Cursor and any MCP client; on npm, the MCP Registry and hosted at canlicapital.com/mcp.",
+                "homepage": "https://canlicapital.com/developers",
+                "id": 1387381389,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-30T22:35:03Z",
+                "open_issues": 10,
+                "owner": "arhancanli",
+                "repo": "canli-validation-mcp",
+                "stars": 1,
+                "topics": [
+                  "ai-agents",
+                  "algorithmic-trading",
+                  "backtest-overfitting",
+                  "backtesting",
+                  "claude",
+                  "cursor",
+                  "data-snooping",
+                  "deflated-sharpe-ratio",
+                  "finance",
+                  "lookahead-bias",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "multiple-testing",
+                  "overfitting",
+                  "quant",
+                  "quantitative-finance",
+                  "sharpe-ratio",
+                  "statistics",
+                  "trading"
+                ]
+              },
+              "first_seen": "2026-10-06T00:09:18.678Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Invompt",
+              "description": "Turn AI-host work into invoices you review before send; Continue as guest or OAuth via hosted MCP.  🟢 1d 0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Create invoices, quotes, estimates, and pro formas from your AI assistant. Review before sending. Hosted MCP with OAuth; start without an account.",
+                "homepage": "https://invompt.com",
+                "id": 1323261184,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-31T11:32:57Z",
+                "open_issues": 14,
+                "owner": "Invompt",
+                "repo": "invompt-mcp",
+                "stars": 0,
+                "topics": [
+                  "ai-agents",
+                  "invoices",
+                  "mcp",
+                  "model-context-protocol",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-10-03T04:26:09.001Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FXMacroData",
+              "description": "Official-source macroeconomic data for 22 currencies through 8 tools: indicator time series with announcement dates, release calendars, the indicator catalogue, FX spot rates, COT positioning, commodities, FX market sessions and a ping check. Recent USD releases, the USD calendar and USD COT positioning work without an API key.  🟢 3w 0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MCP server for the FXMacroData API — macroeconomic indicators, release calendars, COT, commodities, and forex for AI agents. Works with Claude Desktop, Cursor, VS Code, OpenClaw, and any MCP client.",
+                "homepage": "https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral&utm_campaign=mcp-server-fxmacrodata&utm_content=homepage",
+                "id": 1212091028,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-06T03:06:34Z",
+                "open_issues": 0,
+                "owner": "fxmacrodata",
+                "repo": "mcp-server-fxmacrodata",
+                "stars": 0,
+                "topics": [
+                  "ai-agents",
+                  "claude",
+                  "finance",
+                  "forex",
+                  "llm-tools",
+                  "macroeconomics",
+                  "mcp",
+                  "model-context-protocol"
+                ]
+              },
+              "first_seen": "2026-10-07T23:11:18.374Z"
+            },
+            {
+              "node_type": "item",
               "title": "CurrencyFreaks",
-              "description": "Official server for the CurrencyFreaks API with tools for latest and historical exchange rates, currency conversion, time series, fluctuation and IP-to-currency lookup across 1000+ fiat, crypto and precious metal currencies; requires an API key.  🟢 0d 0",
+              "description": "Official server for the CurrencyFreaks API with tools for latest and historical exchange rates, currency conversion, time series, fluctuation and IP-to-currency lookup across 1000+ fiat, crypto and precious metal currencies; requires an API key.  🟢 5d 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4658,7 +4679,7 @@
             {
               "node_type": "item",
               "title": "Google Maps",
-              "description": "✅ Location services, directions, and place details.  🟢 0d 91.5k",
+              "description": "✅ Location services, directions, and place details.  🟢 3d 91.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4668,10 +4689,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T05:27:40Z",
-                "open_issues": 34,
+                "open_issues": 38,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91718,
+                "stars": 91736,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -4688,11 +4709,11 @@
                 "id": 862584018,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-27T11:15:12Z",
-                "open_issues": 380,
+                "last_commit": "2026-11-01T16:26:38Z",
+                "open_issues": 381,
                 "owner": "modelcontextprotocol",
                 "repo": "python-sdk",
-                "stars": 24720,
+                "stars": 24730,
                 "topics": [
                   "mcp",
                   "mcp-client",
@@ -4714,11 +4735,11 @@
                 "id": 862584018,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-27T11:15:12Z",
-                "open_issues": 380,
+                "last_commit": "2026-11-01T16:26:38Z",
+                "open_issues": 381,
                 "owner": "modelcontextprotocol",
                 "repo": "python-sdk",
-                "stars": 24720,
+                "stars": 24730,
                 "topics": [
                   "mcp",
                   "mcp-client",
@@ -4731,7 +4752,7 @@
             {
               "node_type": "item",
               "title": "AppleScript",
-              "description": "Implements interaction with macOS via AppleScript.  🔴 1y 394",
+              "description": "Implements interaction with macOS via AppleScript.  🔴 1y 395",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4752,7 +4773,7 @@
             {
               "node_type": "item",
               "title": "Make",
-              "description": "Turn Make scenarios into callable tools for AI assistants.  🟢 5d 173",
+              "description": "Turn Make scenarios into callable tools for AI assistants.  🟢 12d 174",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4773,7 +4794,7 @@
             {
               "node_type": "item",
               "title": "domain-mcp",
-              "description": "MCP server to search, register, and manage domains (availability, DNS, WHOIS) via Dynadot API.  🟢 7w 13",
+              "description": "MCP server to search, register, and manage domains (availability, DNS, WHOIS) via Dynadot API.  🟢 8w 13",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4810,7 +4831,7 @@
             {
               "node_type": "item",
               "title": "SheetsData",
-              "description": "Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand.  🟢 4d 13",
+              "description": "Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand.  🟢 2d 12",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4830,8 +4851,49 @@
             },
             {
               "node_type": "item",
+              "title": "IPGeolocation.io",
+              "description": "Official server for the IPGeolocation.io APIs with tools for IP geolocation, company and ASN data, IP security (VPN, proxy, Tor, bot and hosting detection), abuse contacts, time zones, astronomy and user-agent parsing; most tools require an API key.  🟢 2d 6",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official IPGeolocation.io MCP server: 17 tools for accurate IP geolocation, company information, ASN and network data, IP security (VPN, proxy, Tor, bot, hosting and spam detection), abuse contacts, time zones, astronomy, currency data and user-agent parsing.",
+                "homepage": "https://ipgeolocation.io",
+                "id": 1172544930,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-11-01T18:47:38Z",
+                "open_issues": 10,
+                "owner": "IPGeolocation",
+                "repo": "ipgeolocation-io-mcp",
+                "stars": 6,
+                "topics": [
+                  "ai",
+                  "anthropic",
+                  "asn",
+                  "asn-lookup",
+                  "claude",
+                  "ip",
+                  "ip-abuse-lookup",
+                  "ip-geolocation",
+                  "ip-geolocation-api",
+                  "ip-lookup-api",
+                  "ipgeolocation",
+                  "ipgeolocation-api",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "proxy-detection",
+                  "typescript",
+                  "vpn-detection"
+                ]
+              },
+              "first_seen": "2026-10-29T22:51:07.018Z"
+            },
+            {
+              "node_type": "item",
               "title": "ParlayAPI",
-              "description": "Sports odds, player props, public event discovery, and account usage; account data tools require your own API key and allowances.  🟢 3w 1",
+              "description": "Sports odds, player props, public event discovery, and account usage; account data tools require your own API key and allowances.  🟢 4w 1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4863,7 +4925,7 @@
             {
               "node_type": "item",
               "title": "APIFreaks",
-              "description": "Official server for the APIFreaks APIs with opt-in modules for weather, WHOIS, DNS, SSL, IP geolocation, currency and commodity rates, screenshots, PDFs, VAT/IBAN/SWIFT and email or phone validation; requires an API key.  🟢 5d 0",
+              "description": "Official server for the APIFreaks APIs with opt-in modules for weather, WHOIS, DNS, SSL, IP geolocation, currency and commodity rates, screenshots, PDFs, VAT/IBAN/SWIFT and email or phone validation; requires an API key.  🟢 2d 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4884,7 +4946,7 @@
             {
               "node_type": "item",
               "title": "WhoisFreaks",
-              "description": "Official server for the WhoisFreaks APIs with tools for live and historical WHOIS, reverse WHOIS, DNS lookup and history, IP and ASN WHOIS, domain availability, subdomains and SSL; requires an API key.  🟢 4w 0",
+              "description": "Official server for the WhoisFreaks APIs with tools for live and historical WHOIS, reverse WHOIS, DNS lookup and history, IP and ASN WHOIS, domain availability, subdomains and SSL; requires an API key.  🟢 5w 0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4901,47 +4963,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-24T20:58:15.625Z"
-            },
-            {
-              "node_type": "item",
-              "title": "IPGeolocation.io",
-              "description": "Official server for the IPGeolocation.io APIs with tools for IP geolocation, company and ASN data, IP security (VPN, proxy, Tor, bot and hosting detection), abuse contacts, time zones, astronomy and user-agent parsing; most tools require an API key.  🟢 0d 0",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official IPGeolocation.io MCP server: 17 tools for accurate IP geolocation, company information, ASN and network data, IP security (VPN, proxy, Tor, bot, hosting and spam detection), abuse contacts, time zones, astronomy, currency data and user-agent parsing.",
-                "homepage": "https://ipgeolocation.io",
-                "id": 1172544930,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-10-30T13:56:26Z",
-                "open_issues": 10,
-                "owner": "IPGeolocation",
-                "repo": "ipgeolocation-io-mcp",
-                "stars": 5,
-                "topics": [
-                  "ai",
-                  "anthropic",
-                  "asn",
-                  "asn-lookup",
-                  "claude",
-                  "ip",
-                  "ip-abuse-lookup",
-                  "ip-geolocation",
-                  "ip-geolocation-api",
-                  "ip-lookup-api",
-                  "ipgeolocation",
-                  "ipgeolocation-api",
-                  "llm",
-                  "mcp",
-                  "mcp-server",
-                  "model-context-protocol",
-                  "proxy-detection",
-                  "typescript",
-                  "vpn-detection"
-                ]
-              },
-              "first_seen": "2026-10-29T22:51:07.018Z"
             }
           ],
           "description": null,
@@ -4957,7 +4978,7 @@
         {
           "node_type": "item",
           "title": "n8n",
-          "description": "interact with Model Context Protocol (MCP) servers in your n8n workflows.  🟡 9mo 3k",
+          "description": "interact with Model Context Protocol (MCP) servers in your n8n workflows.  🟡 10mo 3k",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4978,7 +4999,7 @@
         {
           "node_type": "item",
           "title": "eechat",
-          "description": "An open-source, cross-platform desktop application that seamlessly connects with full support for MCP, across Linux, macOS, and Windows.  🟢 2mo 347",
+          "description": "An open-source, cross-platform desktop application that seamlessly connects with full support for MCP, across Linux, macOS, and Windows.  🟢 2mo 351",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5003,7 +5024,7 @@
         {
           "node_type": "item",
           "title": "Off Grid AI Desktop",
-          "description": "Local-first macOS app that runs a full AI suite on-device (LLM chat, image generation, transcription, memory/RAG) and connects to MCP servers as a client, with no account or telemetry.  🟢 0d 132",
+          "description": "Local-first macOS app that runs a full AI suite on-device (LLM chat, image generation, transcription, memory/RAG) and connects to MCP servers as a client, with no account or telemetry.  🟢 0d 140",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5012,8 +5033,8 @@
             "id": 1137228781,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T19:19:46Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-01T20:41:14Z",
+            "open_issues": 15,
             "owner": "off-grid-ai",
             "repo": "OGAD",
             "stars": 140,
@@ -5045,7 +5066,7 @@
         {
           "node_type": "item",
           "title": "SandBase Harness",
-          "description": "Local-first TypeScript agent runtime that connects agents to stdio and URL-based MCP servers, with persistent sessions, sandboxed tools, memory, credentials, audit logs, and replay.  🟢 7d 635",
+          "description": "Local-first TypeScript agent runtime that connects agents to stdio and URL-based MCP servers, with persistent sessions, sandboxed tools, memory, credentials, audit logs, and replay.  🟢 0d 639",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5054,7 +5075,7 @@
             "id": 1297278222,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T16:37:50Z",
+            "last_commit": "2026-11-01T14:17:38Z",
             "open_issues": 18,
             "owner": "sandbaseai",
             "repo": "sandbase-harness",
@@ -5087,7 +5108,7 @@
         {
           "node_type": "item",
           "title": "FLUJO",
-          "description": "Local-first visual AI agent builder and MCP client with server management, tool inspection, multi-model chat, and workflow debugging.  🟢 0d 665",
+          "description": "Local-first visual AI agent builder and MCP client with server management, tool inspection, multi-model chat, and workflow debugging.  🟢 1d 669",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5096,11 +5117,11 @@
             "id": 939611454,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T20:30:48Z",
-            "open_issues": 46,
+            "last_commit": "2026-11-01T18:31:16Z",
+            "open_issues": 50,
             "owner": "mario-andreschak",
             "repo": "FLUJO",
-            "stars": 669,
+            "stars": 670,
             "topics": [
               "agentic-ai",
               "agentic-framework",
@@ -5146,11 +5167,11 @@
                 "id": 862584018,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-27T11:15:12Z",
-                "open_issues": 380,
+                "last_commit": "2026-11-01T16:26:38Z",
+                "open_issues": 381,
                 "owner": "modelcontextprotocol",
                 "repo": "python-sdk",
-                "stars": 24720,
+                "stars": 24730,
                 "topics": [
                   "mcp",
                   "mcp-client",
@@ -5163,7 +5184,7 @@
             {
               "node_type": "item",
               "title": "TypeScript",
-              "description": "Reference implementation for Node.js/browser. 🟢 0d 13.7k",
+              "description": "Reference implementation for Node.js/browser. 🟢 1d 13.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5173,10 +5194,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T10:56:10Z",
-                "open_issues": 633,
+                "open_issues": 636,
                 "owner": "modelcontextprotocol",
                 "repo": "typescript-sdk",
-                "stars": 13690,
+                "stars": 13694,
                 "topics": [
                   "mcp",
                   "mcp-client",
@@ -5189,7 +5210,7 @@
             {
               "node_type": "item",
               "title": "Rust (rmcp)",
-              "description": "Official Rust SDK with proc macros. 🟢 2d 4k",
+              "description": "Official Rust SDK with proc macros. 🟢 1d 4.1k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5198,11 +5219,11 @@
                 "id": 934753959,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T00:01:02Z",
+                "last_commit": "2026-11-01T19:09:40Z",
                 "open_issues": 70,
                 "owner": "modelcontextprotocol",
                 "repo": "rust-sdk",
-                "stars": 4077,
+                "stars": 4081,
                 "topics": [
                   "mcp",
                   "mcp-client",
@@ -5215,7 +5236,7 @@
             {
               "node_type": "item",
               "title": "Go",
-              "description": "Official Go SDK, maintained with Google. 🟢 2d 5.3k",
+              "description": "Official Go SDK, maintained with Google. 🟢 0d 5.3k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5224,11 +5245,11 @@
                 "id": 971300888,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T15:20:28Z",
-                "open_issues": 79,
+                "last_commit": "2026-11-01T04:47:30Z",
+                "open_issues": 84,
                 "owner": "modelcontextprotocol",
                 "repo": "go-sdk",
-                "stars": 5291,
+                "stars": 5297,
                 "topics": [
                   "go",
                   "mcp"
@@ -5239,7 +5260,7 @@
             {
               "node_type": "item",
               "title": "Kotlin",
-              "description": "Multiplatform (JVM, Wasm, iOS). 🟢 3d 1.5k",
+              "description": "Multiplatform (JVM, Wasm, iOS). 🟢 2d 1.5k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5263,7 +5284,7 @@
             {
               "node_type": "item",
               "title": "C#",
-              "description": "ASP.NET Core, Azure Functions integration. 🟢 1d 4.6k",
+              "description": "ASP.NET Core, Azure Functions integration. 🟢 2d 4.6k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5273,10 +5294,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-30T23:43:52Z",
-                "open_issues": 203,
+                "open_issues": 205,
                 "owner": "modelcontextprotocol",
                 "repo": "csharp-sdk",
-                "stars": 4607,
+                "stars": 4613,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -5291,7 +5312,7 @@
             {
               "node_type": "item",
               "title": "Java",
-              "description": "Spring Boot integration. 🟢 2d 3.7k",
+              "description": "Spring Boot integration. 🟢 0d 3.8k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5300,11 +5321,11 @@
                 "id": 919609219,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-31T16:44:38Z",
-                "open_issues": 292,
+                "last_commit": "2026-11-01T05:27:50Z",
+                "open_issues": 303,
                 "owner": "modelcontextprotocol",
                 "repo": "java-sdk",
-                "stars": 3757,
+                "stars": 3760,
                 "topics": [
                   "java",
                   "mcp",
@@ -5324,7 +5345,7 @@
             {
               "node_type": "item",
               "title": "Fast MCP",
-              "description": "High-level Python framework used by ~70% of Python MCP servers.  🟢 0d 28.2k",
+              "description": "High-level Python framework used by ~70% of Python MCP servers.  🟢 0d 28.3k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5333,11 +5354,11 @@
                 "id": 896296825,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T21:39:45Z",
-                "open_issues": 574,
+                "last_commit": "2026-11-01T22:02:05Z",
+                "open_issues": 534,
                 "owner": "PrefectHQ",
                 "repo": "fastmcp",
-                "stars": 28251,
+                "stars": 28268,
                 "topics": [
                   "agents",
                   "fastmcp",
@@ -5384,7 +5405,7 @@
             {
               "node_type": "item",
               "title": "rust-mcp-sdk",
-              "description": "Async SDK with proc macros, hyper-based HTTP transport.  🟢 6d 198",
+              "description": "Async SDK with proc macros, hyper-based HTTP transport.  🟢 6d 199",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5412,7 +5433,7 @@
             {
               "node_type": "item",
               "title": "pmcp",
-              "description": "SIMD-optimized JSON-RPC parsing, performance-focused.  🟢 6d 52",
+              "description": "SIMD-optimized JSON-RPC parsing, performance-focused.  🟢 2d 52",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5442,7 +5463,7 @@
             {
               "node_type": "item",
               "title": "mcp-go",
-              "description": "Community SDK that inspired the official implementation.  🟢 3d 9.2k",
+              "description": "Community SDK that inspired the official implementation.  🟢 2d 9.2k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5452,10 +5473,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-30T13:40:20Z",
-                "open_issues": 29,
+                "open_issues": 39,
                 "owner": "mark3labs",
                 "repo": "mcp-go",
-                "stars": 9210,
+                "stars": 9211,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
@@ -5463,7 +5484,7 @@
             {
               "node_type": "item",
               "title": "go-mcp",
-              "description": "Idiomatic Go API with strong typing.  🟢 2mo 678",
+              "description": "Idiomatic Go API with strong typing.  🟢 2mo 679",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5484,7 +5505,7 @@
             {
               "node_type": "item",
               "title": "xmcp",
-              "description": "TypeScript framework for building MCP servers with file-based tools, resources, prompts, hot reload, and deployment adapters.  🟢 0d 0",
+              "description": "TypeScript framework for building MCP servers with file-based tools, resources, prompts, hot reload, and deployment adapters.  🟢 4d 1.3k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5521,7 +5542,7 @@
         {
           "node_type": "item",
           "title": "Server inspector",
-          "description": "✅ Visual testing tool for MCP servers.  🟢 0d 11.1k",
+          "description": "✅ Visual testing tool for MCP servers.  🟢 3d 11.2k",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5531,10 +5552,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-29T06:32:33Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "modelcontextprotocol",
             "repo": "inspector",
-            "stars": 11201,
+            "stars": 11208,
             "topics": [
               "cli",
               "debug",
@@ -5559,10 +5580,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-01-25T16:35:16Z",
-            "open_issues": 152,
+            "open_issues": 153,
             "owner": "lastmile-ai",
             "repo": "mcp-agent",
-            "stars": 8567,
+            "stars": 8570,
             "topics": [
               "agents",
               "ai",
@@ -5579,7 +5600,7 @@
         {
           "node_type": "item",
           "title": "ToolHive",
-          "description": "A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization.  🟢 1d 2.3k",
+          "description": "A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization.  🟢 0d 2.3k",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5588,11 +5609,11 @@
             "id": 947349598,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T20:29:07Z",
-            "open_issues": 408,
+            "last_commit": "2026-11-01T20:04:51Z",
+            "open_issues": 407,
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2315,
+            "stars": 2317,
             "topics": [
               "ai",
               "ai-security",
@@ -5654,7 +5675,7 @@
         {
           "node_type": "item",
           "title": "MCP get",
-          "description": "A command-line tool for installing and managing Model Context Protocol (MCP) servers.  🗄️ archived 501",
+          "description": "A command-line tool for installing and managing Model Context Protocol (MCP) servers.  🗄️ archived 500",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5675,7 +5696,7 @@
         {
           "node_type": "item",
           "title": "OrcaReplay",
-          "description": "Records the MCP JSON-RPC a coding agent exchanges during a real session, on the same timeline as the model traffic and shell commands, then replays it offline.  🟢 3w 282",
+          "description": "Records the MCP JSON-RPC a coding agent exchanges during a real session, on the same timeline as the model traffic and shell commands, then replays it offline.  🟢 4w 293",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5688,7 +5709,7 @@
             "open_issues": 2,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 291,
+            "stars": 295,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -5733,7 +5754,7 @@
         {
           "node_type": "item",
           "title": "Roundtable",
-          "description": "Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface.  🔴 1y 127",
+          "description": "Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface.  🔴 1y 128",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5782,7 +5803,7 @@
         {
           "node_type": "item",
           "title": "ToolRegistry",
-          "description": "A PyPI package that simplifies tool integration by streamlining OpenAI client tool calls and managing native Python functions and MCP servers, offering both async and sync interfaces.  🟢 1d 67",
+          "description": "A PyPI package that simplifies tool integration by streamlining OpenAI client tool calls and managing native Python functions and MCP servers, offering both async and sync interfaces.  🟢 2d 67",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5910,7 +5931,7 @@
         {
           "node_type": "item",
           "title": "Sunglasses",
-          "description": "Local scanner for AI agents that pins a SHA-256 of every MCP tool descriptor to flag changed tool descriptions, and checks text and files for prompt injection and credential leaks with 1,554 patterns.  🟢 0d 10",
+          "description": "Local scanner for AI agents that pins a SHA-256 of every MCP tool descriptor to flag changed tool descriptions, and checks text and files for prompt injection and credential leaks with 1,554 patterns.  🟢 0d 11",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5919,8 +5940,8 @@
             "id": 1195908149,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T21:35:22Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-01T21:25:27Z",
+            "open_issues": 17,
             "owner": "sunglasses-dev",
             "repo": "sunglasses",
             "stars": 11,
@@ -5952,7 +5973,7 @@
         {
           "node_type": "item",
           "title": "Junctio",
-          "description": "Self-hosted MCP gateway that puts stdio, Docker and remote servers behind one endpoint per client, with API keys or a built-in OAuth authorization server downstream and proactive upstream OAuth refresh.  🟢 2w 4",
+          "description": "Self-hosted MCP gateway that puts stdio, Docker and remote servers behind one endpoint per client, with API keys or a built-in OAuth authorization server downstream and proactive upstream OAuth refresh.  🟢 6d 5",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5994,7 +6015,7 @@
         {
           "node_type": "item",
           "title": "mcp-doctor",
-          "description": "Static audit of MCP server source (Python, TypeScript, Go) that scores tool descriptions, parameter docs, error handling and security risks like tool poisoning, with a GitHub Action to gate PRs.  🟢 2d 3",
+          "description": "Static audit of MCP server source (Python, TypeScript, Go) that scores tool descriptions, parameter docs, error handling and security risks like tool poisoning, with a GitHub Action to gate PRs.  🟢 1d 3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6003,8 +6024,8 @@
             "id": 1350588560,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T17:08:18Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-01T18:00:15Z",
+            "open_issues": 0,
             "owner": "vishalhabib99",
             "repo": "mcp-doctor",
             "stars": 3,
@@ -6032,6 +6053,37 @@
             ]
           },
           "first_seen": "2026-10-06T00:09:18.678Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Server Tester",
+          "description": "Web-based inspector for remote MCP servers with token-usage estimation, latency measurement, tool-definition quality scoring, and side-by-side server comparison.  🟢 2mo 3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A web-based tool for inspecting MCP servers. Connect to any MCP server, browse its Tools, Resources, and Prompts, measure fetch latency, estimate token usage, score the quality of tool definitions, and compare two servers side by side, and scan for tool poisoning and rug pulls.",
+            "homepage": "https://ytkoka.github.io/mcp-tester/",
+            "id": 1287016663,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-08-16T09:08:45Z",
+            "open_issues": 0,
+            "owner": "ytkoka",
+            "repo": "mcp-tester",
+            "stars": 3,
+            "topics": [
+              "llm",
+              "llm-tools",
+              "mcp",
+              "mcp-inspector",
+              "mcp-protocol",
+              "mcp-security",
+              "mcp-security-testing",
+              "mcp-tools",
+              "model-context-protocol"
+            ]
+          },
+          "first_seen": "2026-08-29T01:47:29.421Z"
         },
         {
           "node_type": "item",
@@ -6063,37 +6115,6 @@
         },
         {
           "node_type": "item",
-          "title": "MCP Server Tester",
-          "description": "Web-based inspector for remote MCP servers with token-usage estimation, latency measurement, tool-definition quality scoring, and side-by-side server comparison.  🟢 2mo 2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A web-based tool for inspecting MCP servers. Connect to any MCP server, browse its Tools, Resources, and Prompts, measure fetch latency, estimate token usage, score the quality of tool definitions, and compare two servers side by side, and scan for tool poisoning and rug pulls.",
-            "homepage": "https://ytkoka.github.io/mcp-tester/",
-            "id": 1287016663,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2026-08-16T09:08:45Z",
-            "open_issues": 0,
-            "owner": "ytkoka",
-            "repo": "mcp-tester",
-            "stars": 2,
-            "topics": [
-              "llm",
-              "llm-tools",
-              "mcp",
-              "mcp-inspector",
-              "mcp-protocol",
-              "mcp-security",
-              "mcp-security-testing",
-              "mcp-tools",
-              "model-context-protocol"
-            ]
-          },
-          "first_seen": "2026-08-29T01:47:29.421Z"
-        },
-        {
-          "node_type": "item",
           "title": "MyMCPTools",
           "description": "Tracks the health of remote MCP servers across a catalog of 2,467 entries: hourly handshake probes, uptime history, incident timelines, and tool-schema drift detection against the previous probe. Queryable over HTTP or as an MCP server itself.  🟢 0d 2",
           "children": [],
@@ -6104,7 +6125,7 @@
             "id": 1194284276,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-31T10:40:07Z",
+            "last_commit": "2026-11-01T11:40:07Z",
             "open_issues": 9,
             "owner": "shibley",
             "repo": "mymcptools",
@@ -6116,7 +6137,7 @@
         {
           "node_type": "item",
           "title": "mcp-daemon-diet",
-          "description": "Run one shared MCP server per machine instead of a stdio copy per client session, with autostart templates for Windows, macOS and Linux and a watchdog that restarts only on a proven-dead process.  🟢 2d 2",
+          "description": "Run one shared MCP server per machine instead of a stdio copy per client session, with autostart templates for Windows, macOS and Linux and a watchdog that restarts only on a proven-dead process.  🟢 9d 2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6150,6 +6171,38 @@
             ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
+        },
+        {
+          "node_type": "item",
+          "title": "mcp-gatehouse",
+          "description": "Permission tiers, fail-closed approval gates and a secret-redacting audit log enforced inside Python MCP servers.  🟢 1d 2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Permission tiers, approval gates, and audit logging for MCP servers — enforced inside the server, built on the official Python SDK.",
+            "homepage": "https://nickgeorgeai.com/open-source/mcp-gatehouse",
+            "id": 1298645461,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-31T19:10:05Z",
+            "open_issues": 2,
+            "owner": "nickgeorgeseo",
+            "repo": "mcp-gatehouse",
+            "stars": 2,
+            "topics": [
+              "ai-agents",
+              "ai-safety",
+              "audit-log",
+              "human-in-the-loop",
+              "llm-security",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "permissions",
+              "python"
+            ]
+          },
+          "first_seen": "2026-10-28T22:41:46.726Z"
         },
         {
           "node_type": "item",
@@ -6196,7 +6249,7 @@
             "id": 1212010692,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T16:32:06Z",
+            "last_commit": "2026-11-01T21:14:16Z",
             "open_issues": 1,
             "owner": "magertron",
             "repo": "orchestrator",
@@ -6218,7 +6271,7 @@
         {
           "node_type": "item",
           "title": "SurfacePin",
-          "description": "Exact-hash lock of MCP tools/resources/prompts list surfaces; CI fails on digest mismatch; field-diff COMPATIBLE / BREAKING / HINT_FLIP.  🟢 5d 1",
+          "description": "Exact-hash lock of MCP tools/resources/prompts list surfaces; CI fails on digest mismatch; field-diff COMPATIBLE / BREAKING / HINT_FLIP.  🟢 12d 1",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6239,7 +6292,7 @@
         {
           "node_type": "item",
           "title": "mcp-cassette",
-          "description": "Records a real MCP session and replays it as an MCP server over stdio or Streamable HTTP for offline tests, gates tool-contract drift against a committed snapshot, and lints tool, prompt and resource descriptions and recorded tool results for prompt injection.  🟢 2d 1",
+          "description": "Records a real MCP session and replays it as an MCP server over stdio or Streamable HTTP for offline tests, gates tool-contract drift against a committed snapshot, and lints tool, prompt and resource descriptions and recorded tool results for prompt injection.  🟢 9d 1",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6270,6 +6323,55 @@
         },
         {
           "node_type": "item",
+          "title": "MCP Checkup",
+          "description": "Check suite behind scheduled checks of public remote MCP servers (availability, protocol handshake and negotiated revision, tool-list and schema drift against an approved baseline, auth metadata), with an offline verifier for the resulting Ed25519-signed DSSE attestations.  🟢 1d 1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Protocol contract checks for MCP servers, the canonicalizer and schema behind MCP Checkup's signed attestations, and an offline verifier.",
+            "homepage": "https://mcpcheckup.com",
+            "id": 1369591728,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-31T19:54:01Z",
+            "open_issues": 0,
+            "owner": "mcpcheckup",
+            "repo": "checks",
+            "stars": 1,
+            "topics": [
+              "attestation",
+              "dsse",
+              "json-canonicalization",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol"
+            ]
+          },
+          "first_seen": "2026-10-23T21:30:30.335Z"
+        },
+        {
+          "node_type": "item",
+          "title": "mcp-review-check",
+          "description": "Checks an MCP server over stdio or Streamable HTTP against Claude and ChatGPT connector-directory review criteria and the MCP spec, with SARIF output for CI.  🟢 0d 1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Lint your MCP server against Claude connector directory, ChatGPT app directory and MCP spec review criteria before you submit. 144 rules, read-only, no account. Text, JSON, Markdown, SARIF output for CI.",
+            "homepage": null,
+            "id": 1432973258,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-01T16:53:21Z",
+            "open_issues": 5,
+            "owner": "alisaosipova",
+            "repo": "mcp-review-check",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-26T22:45:57.098Z"
+        },
+        {
+          "node_type": "item",
           "title": "MCP Debug Proxy",
           "description": "Logging reverse proxy that makes MCP and OAuth traffic between a client and a remote server observable, with a live web UI.  🟢 2mo 0",
           "children": [],
@@ -6297,7 +6399,7 @@
         {
           "node_type": "item",
           "title": "Allowly MCP",
-          "description": "Middleware that checks MCP tool calls against hosted Allowly policies before running the tool handler.  🟢 0d 0",
+          "description": "Middleware that checks MCP tool calls against hosted Allowly policies before running the tool handler.  🟢 7d 0",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6318,7 +6420,7 @@
         {
           "node_type": "item",
           "title": "mcp-drift",
-          "description": "Offline, read-only CLI that scans MCP client configs for unpinned npx/uvx and @latest launches, inline tokens, broad filesystem scope and drift from an approved baseline, with SARIF output.  🟢 2w 0",
+          "description": "Offline, read-only CLI that scans MCP client configs for unpinned npx/uvx and @latest launches, inline tokens, broad filesystem scope and drift from an approved baseline, with SARIF output.  🟢 3w 0",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6354,7 +6456,7 @@
         {
           "node_type": "item",
           "title": "MCP Server Template",
-          "description": "Minimal stdio MCP server starter in TypeScript and Python with an example tool, Claude Desktop and Cursor config, and a companion web form that generates the same project with your own tools.  🟢 8d 0",
+          "description": "Minimal stdio MCP server starter in TypeScript and Python with an example tool, Claude Desktop and Cursor config, and a companion web form that generates the same project with your own tools.  🟢 2w 0",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6382,91 +6484,40 @@
         },
         {
           "node_type": "item",
-          "title": "MCP Checkup",
-          "description": "Check suite behind scheduled checks of public remote MCP servers (availability, protocol handshake and negotiated revision, tool-list and schema drift against an approved baseline, auth metadata), with an offline verifier for the resulting Ed25519-signed DSSE attestations.  🟢 0d 0",
+          "title": "MCP Server Starter",
+          "description": "Minimal TypeScript MCP server template with stateless Streamable HTTP and stdio for Node and Cloudflare Workers, plus a preflight CLI that checks a deployed MCP URL for client-breaking issues.  🟢 1d 0",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Protocol contract checks for MCP servers, the canonicalizer and schema behind MCP Checkup's signed attestations, and an offline verifier.",
-            "homepage": "https://mcpcheckup.com",
-            "id": 1369591728,
+            "description": "Minimal production-minded MCP server starter (TypeScript): stateless Streamable HTTP + stdio, Cloudflare Workers + Node, preflight checker, tests.",
+            "homepage": "https://ninonorden.github.io/ninoventures/mcp-server-starter-kit.html",
+            "id": 1441167202,
             "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-31T19:54:01Z",
+            "license": "MIT",
+            "last_commit": "2026-10-31T18:58:39Z",
             "open_issues": 0,
-            "owner": "mcpcheckup",
-            "repo": "checks",
-            "stars": 1,
+            "owner": "ninonorden",
+            "repo": "mcp-server-starter",
+            "stars": 0,
             "topics": [
-              "attestation",
-              "dsse",
-              "json-canonicalization",
-              "mcp",
-              "mcp-server",
-              "model-context-protocol"
-            ]
-          },
-          "first_seen": "2026-10-23T21:30:30.335Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mcp-review-check",
-          "description": "Checks an MCP server over stdio or Streamable HTTP against Claude and ChatGPT connector-directory review criteria and the MCP spec, with SARIF output for CI.  🟢 0d 0",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Lint your MCP server against Claude connector directory, ChatGPT app directory and MCP spec review criteria before you submit. 144 rules, read-only, no account. Text, JSON, Markdown, SARIF output for CI.",
-            "homepage": null,
-            "id": 1432973258,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-25T22:43:37Z",
-            "open_issues": 5,
-            "owner": "alisaosipova",
-            "repo": "mcp-review-check",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-10-26T22:45:57.098Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mcp-gatehouse",
-          "description": "Permission tiers, fail-closed approval gates and a secret-redacting audit log enforced inside Python MCP servers.  🟢 0d 2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Permission tiers, approval gates, and audit logging for MCP servers — enforced inside the server, built on the official Python SDK.",
-            "homepage": "https://nickgeorgeai.com/open-source/mcp-gatehouse",
-            "id": 1298645461,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-31T19:10:05Z",
-            "open_issues": 2,
-            "owner": "nickgeorgeseo",
-            "repo": "mcp-gatehouse",
-            "stars": 2,
-            "topics": [
-              "ai-agents",
-              "ai-safety",
-              "audit-log",
-              "human-in-the-loop",
-              "llm-security",
+              "claude",
+              "cloudflare-workers",
+              "cursor",
               "mcp",
               "mcp-server",
               "model-context-protocol",
-              "permissions",
-              "python"
+              "streamable-http",
+              "typescript"
             ]
           },
-          "first_seen": "2026-10-28T22:41:46.726Z"
+          "first_seen": "2026-11-01T22:11:10.426Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T21:43:44.808Z",
+    "last_updated": "2026-11-01T22:11:10.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome ModelContextProtocol resources - A curated list of MCP resources",
@@ -6474,8 +6525,8 @@
       "id": 896120399,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-31T00:06:02Z",
-      "open_issues": 27,
+      "last_commit": "2026-11-01T16:38:54Z",
+      "open_issues": 30,
       "owner": "AlexMili",
       "repo": "Awesome-MCP",
       "stars": 155,
@@ -6490,7 +6541,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "7ee6230e98eeabc7b75b6a53c095243105f9ed6c",
+    "original_repository_sha": "b7a55953433f93240e7cfb42d8201d780d7a093b",
     "enhanced_repository": "enhansome/enhansome-Awesome-MCP",
     "enhanced_repository_description": null,
     "title": "Awesome MCP with stars"
